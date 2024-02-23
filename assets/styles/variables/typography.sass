@@ -1,0 +1,36 @@
+$body-font-size: 16px
+$body-line-height: 1.2
+$typography-font-family: 'Qanelas', '-apple-system', sans-serif
+
+
+
+$t42: (size: 2.063rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t36: (size: 1.75rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t32: (size: 1.625rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t28: (size: 1.438rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t24: (size: 1.188rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t22: (size: 1.125rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t20: (size: 1rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t18: (size: 0.938rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t16: (size: 0.875rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t14: (size: 0.813rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t12: (size: 0.75rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t10: (size: 0.688rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+$t8: (size: 0.625rem, line-height: $body-line-height, letter-spacing: -.01562em, weight: 400)
+
+$headings: ('h1': $t42, 'h2': $t36, 'h3': $t32, 'h4': $t28, 'h5': $t24, 'h6': $t20, 'subtitle1': $t18, 'subtitle2': $t16, 'body1': $t14, 'body2': $t12,  'caption': $t10,'overline': $t8)
+$h-tags: (h1: map-get($headings, "h1"), h2: map-get($headings, "h2"), h3: map-get($headings, "h3"), h4: map-get($headings, "h4"), h5: map-get($headings, "h5"), h6: map-get($headings, "h6")) !default
+
+
+$text-weights: (thin: 100, light: 200, regular: 400, medium: 500, bold: 600, bolder: 700)
+
+
+$space-none : (x: 0, y: 0) !default
+$space-xs   : (x: 0.25rem, y: 0.25rem) !default
+$space-sm   : (x: 0.5rem, y: 0.5rem) !default
+$space-md   : (x: 1rem, y: 1rem) !default
+$space-lg   : (x: 1.5rem, y: 1.5rem) !default
+$space-xl   : (x: 3.125rem, y: 3.125rem) !default
+
+// sorry for long line; we need .sass and it doesn't support multi-line list
+$spaces: ('none': $space-none, 'xs': $space-xs, 'sm': $space-sm, 'md': $space-md, 'lg': $space-lg, 'xl': $space-xl) !default

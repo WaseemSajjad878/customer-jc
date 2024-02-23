@@ -1,0 +1,64 @@
+/* Qanelas-ExtraBold Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 900;
+    src: url('Qanelas-ExtraBold.ttf') format('truetype');
+}
+
+/* Qanelas-Bold Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 800 700;
+    src: url('Qanelas-Bold.ttf') format('truetype');
+}
+
+/* Qanelas-SemiBold Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 600;
+    src: url('Qanelas-SemiBold.ttf') format('truetype');
+}
+
+/* Qanelas-Medium Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 500 normal;
+    src: url('Qanelas-Medium.ttf') format('truetype');
+}
+
+/* Qanelas-Regular Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Qanelas-Regular.ttf') format('truetype');
+}
+
+/* Qanelas-Light Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Qanelas-Light.ttf') format('truetype');
+}
+
+/* Qanelas-ExtraLight Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 200;
+    src: url('Qanelas-ExtraLight.ttf') format('truetype');
+}
+
+/* Qanelas-Thin Regular */
+@font-face {
+    font-family: 'Qanelas';
+    font-style: normal;
+    font-weight: 100;
+    src: url('Qanelas-Thin.ttf') format('truetype');
+}
+

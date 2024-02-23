@@ -1,0 +1,166 @@
+@import "@/assets/styles/quasar-variables.sass";
+@import "@/assets/fonts/fonts.css";
+
+// @import "@/styles/components/forms";
+
+body {
+  min-height: 100vh;
+}
+/* For Firefox */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: $secondary-2;
+  background-color: black;
+}
+
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $secondary-2;
+  border-radius: 50px;
+}
+
+// custom classes
+
+// border
+
+.border-2-accent {
+  border: 2px solid $accent;
+}
+.border-2-dashed-accent {
+  border: 2px dashed $accent;
+}
+.border-2-secondary-2 {
+  border: 2px solid $secondary-2;
+}
+.border-2-dashed-secondary-2 {
+  border: 2px dashed $secondary-2;
+}
+.border-1-secondary-1 {
+  border: 1px solid $secondary-1;
+}
+.border-1-secondary-2 {
+  border: 1px solid $secondary-2;
+}
+.border-top-1-secondary2 {
+  border-top: 1px solid $secondary-2;
+}
+.border-1-grey-5 {
+  border: 1px solid $grey-5;
+}
+.border-1-green-8 {
+  border: 1px solid $green-8;
+}
+.border-right-1-green-8 {
+  border-right: 1px solid $green-8;
+}
+
+// flex
+
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+.flex-grow-1 {
+  flex-grow: 1;
+}
+.gap-15 {
+  gap: 15px;
+}
+
+//  widths
+.w-280 {
+  width: 280px;
+}
+// heights
+.h-64 {
+  height: 64px;
+}
+.min-h-100vh {
+  min-height: 100vh;
+}
+// others
+.absolute-right-center {
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.overflow-y-auto {
+  overflow-y: auto;
+}
+.bg-center {
+  background-position: center;
+}
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+.rounded-full {
+  border-radius: 100%;
+}
+.z-50 {
+  z-index: 50;
+}
+.remove-bg-on-hover {
+  .q-focusable.q-hoverable:hover > .q-focus-helper {
+    opacity: 0;
+  }
+}
+.ring {
+  border-radius: 50px;
+  border: 2px solid $secondary-2;
+  padding: 2px;
+}
+
+.q-checkbox__svg {
+  padding: 3px !important;
+}
+
+.q-checkbox__bg {
+  background: $secondary-4 !important;
+  border-radius: 4px !important;
+  border: 1px solid $secondary-2 !important;
+}
+
+.gradient .q-checkbox__bg {
+  background: $primary !important;
+  border: none !important;
+}
+
+.q-select__dropdown-icon {
+  display: none !important;
+}
+
+.q-tab__label {
+  font-weight: 600;
+}
+
+.q-chip {
+  margin: 2px;
+}
+
+.q-field__label {
+  color: #475467 !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+}
+
+.q-field--float .q-field__label {
+  transform: translateY(-40%) scale(0.85);
+}
+
+.q-focus-helper {
+  background-color: #e0e0e0 !important;
+}
+
+.q-menu {
+  max-height: 80vh !important;
+}
+
+.q-field__native {
+  font-weight: 600;
+}
+.q-field__input {
+  font-weight: 600;
+}

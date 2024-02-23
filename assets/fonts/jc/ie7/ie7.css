@@ -1,0 +1,3526 @@
+.jc-activity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
+.jc-activity-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
+.jc-airplay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
+}
+.jc-airpods {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.jc-alarm-clock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.jc-alarm-clock-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
+}
+.jc-alarm-clock-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
+}
+.jc-alarm-clock-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe907;');
+}
+.jc-alarm-clock-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe908;');
+}
+.jc-alert-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe909;');
+}
+.jc-alert-hexagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90a;');
+}
+.jc-alert-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90b;');
+}
+.jc-alert-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90c;');
+}
+.jc-alert-triangle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90d;');
+}
+.jc-align-bottom-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;');
+}
+.jc-align-bottom-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
+}
+.jc-align-center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;');
+}
+.jc-align-horizontal-centre-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;');
+}
+.jc-align-horizontal-centre-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;');
+}
+.jc-align-justify {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;');
+}
+.jc-align-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;');
+}
+.jc-align-left-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;');
+}
+.jc-align-left-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
+}
+.jc-align-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
+}
+.jc-align-right-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
+}
+.jc-align-right-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
+}
+.jc-align-top-arrow-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
+}
+.jc-align-top-arrow-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
+}
+.jc-align-vertical-center-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
+}
+.jc-align-vertical-center-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
+}
+.jc-anchor {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;');
+}
+.jc-annotation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91f;');
+}
+.jc-annotation-alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe920;');
+}
+.jc-annotation-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe921;');
+}
+.jc-annotation-dots {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe922;');
+}
+.jc-annotation-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe923;');
+}
+.jc-annotation-info {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe924;');
+}
+.jc-annotation-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
+}
+.jc-annotation-question {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe926;');
+}
+.jc-annotation-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
+}
+.jc-announcement-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
+}
+.jc-announcement-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
+}
+.jc-announcement-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.jc-archive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
+.jc-arrow-block-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
+}
+.jc-arrow-block-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
+}
+.jc-arrow-block-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
+}
+.jc-arrow-block-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;');
+}
+.jc-arrow-circle-broken-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
+}
+.jc-arrow-circle-broken-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
+}
+.jc-arrow-circle-broken-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe932;');
+}
+.jc-arrow-circle-broken-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
+}
+.jc-arrow-circle-broken-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
+}
+.jc-arrow-circle-broken-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe935;');
+}
+.jc-arrow-circle-broken-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
+}
+.jc-arrow-circle-broken-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe937;');
+}
+.jc-arrow-circle-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe938;');
+}
+.jc-arrow-circle-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe939;');
+}
+.jc-arrow-circle-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93a;');
+}
+.jc-arrow-circle-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93b;');
+}
+.jc-arrow-circle-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93c;');
+}
+.jc-arrow-circle-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93d;');
+}
+.jc-arrow-circle-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93e;');
+}
+.jc-arrow-circle-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93f;');
+}
+.jc-arrow-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe940;');
+}
+.jc-arrow-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe941;');
+}
+.jc-arrow-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe942;');
+}
+.jc-arrow-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
+}
+.jc-arrow-narrow-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe944;');
+}
+.jc-arrow-narrow-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe945;');
+}
+.jc-arrow-narrow-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe946;');
+}
+.jc-arrow-narrow-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe947;');
+}
+.jc-arrow-narrow-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;');
+}
+.jc-arrow-narrow-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;');
+}
+.jc-arrow-narrow-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
+}
+.jc-arrow-narrow-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
+}
+.jc-arrow-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
+}
+.jc-arrow-square-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
+}
+.jc-arrow-square-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94e;');
+}
+.jc-arrow-square-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;');
+}
+.jc-arrow-square-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;');
+}
+.jc-arrow-square-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;');
+}
+.jc-arrow-square-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
+}
+.jc-arrow-square-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;');
+}
+.jc-arrow-square-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;');
+}
+.jc-arrow-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;');
+}
+.jc-arrow-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe956;');
+}
+.jc-arrow-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe957;');
+}
+.jc-arrows-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe958;');
+}
+.jc-arrows-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
+}
+.jc-arrows-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95a;');
+}
+.jc-arrows-triangle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95b;');
+}
+.jc-arrows-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95c;');
+}
+.jc-asterisk-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95d;');
+}
+.jc-asterisk-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95e;');
+}
+.jc-at-sign {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95f;');
+}
+.jc-atom-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe960;');
+}
+.jc-atom-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe961;');
+}
+.jc-attachment-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;');
+}
+.jc-attachment-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;');
+}
+.jc-award-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;');
+}
+.jc-award-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;');
+}
+.jc-award-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;');
+}
+.jc-award-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;');
+}
+.jc-award-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
+}
+.jc-backpack {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;');
+}
+.jc-bank {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;');
+}
+.jc-bank-note-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
+}
+.jc-bank-note-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
+}
+.jc-bank-note-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96d;');
+}
+.jc-bar-chart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
+}
+.jc-bar-chart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96f;');
+}
+.jc-bar-chart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe970;');
+}
+.jc-bar-chart-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe971;');
+}
+.jc-bar-chart-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
+}
+.jc-bar-chart-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe973;');
+}
+.jc-bar-chart-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
+}
+.jc-bar-chart-08 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;');
+}
+.jc-bar-chart-09 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe976;');
+}
+.jc-bar-chart-10 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
+}
+.jc-bar-chart-11 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe978;');
+}
+.jc-bar-chart-12 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
+}
+.jc-bar-chart-circle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97a;');
+}
+.jc-bar-chart-circle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97b;');
+}
+.jc-bar-chart-circle-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97c;');
+}
+.jc-bar-chart-square-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97d;');
+}
+.jc-bar-chart-square-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97e;');
+}
+.jc-bar-chart-square-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97f;');
+}
+.jc-bar-chart-square-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe980;');
+}
+.jc-bar-chart-square-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe981;');
+}
+.jc-bar-chart-square-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe982;');
+}
+.jc-bar-chart-square-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe983;');
+}
+.jc-bar-line-chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe984;');
+}
+.jc-battery-charging-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe985;');
+}
+.jc-battery-charging-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe986;');
+}
+.jc-battery-empty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe987;');
+}
+.jc-battery-full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe988;');
+}
+.jc-battery-low {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe989;');
+}
+.jc-battery-mid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98a;');
+}
+.jc-beaker-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98b;');
+}
+.jc-beaker-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98c;');
+}
+.jc-bell-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98d;');
+}
+.jc-bell-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98e;');
+}
+.jc-bell-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98f;');
+}
+.jc-bell-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe990;');
+}
+.jc-bell-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe991;');
+}
+.jc-bell-off-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe992;');
+}
+.jc-bell-off-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
+}
+.jc-bell-off-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe994;');
+}
+.jc-bell-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe995;');
+}
+.jc-bell-ringing-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;');
+}
+.jc-bell-ringing-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe997;');
+}
+.jc-bell-ringing-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe998;');
+}
+.jc-bell-ringing-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe999;');
+}
+.jc-bezier-curve-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99a;');
+}
+.jc-bezier-curve-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99b;');
+}
+.jc-bezier-curve-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99c;');
+}
+.jc-bluetooth-connect {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99d;');
+}
+.jc-bluetooth-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99e;');
+}
+.jc-bluetooth-on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99f;');
+}
+.jc-bluetooth-signal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a0;');
+}
+.jc-bold-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a1;');
+}
+.jc-bold-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a2;');
+}
+.jc-bold-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a3;');
+}
+.jc-book-closed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a4;');
+}
+.jc-book-open-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a5;');
+}
+.jc-book-open-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a6;');
+}
+.jc-bookmark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a7;');
+}
+.jc-bookmark-add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a8;');
+}
+.jc-bookmark-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a9;');
+}
+.jc-bookmark-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9aa;');
+}
+.jc-bookmark-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ab;');
+}
+.jc-box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ac;');
+}
+.jc-brackets {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ad;');
+}
+.jc-brackets-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ae;');
+}
+.jc-brackets-ellipses {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;');
+}
+.jc-brackets-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b0;');
+}
+.jc-brackets-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b1;');
+}
+.jc-brackets-slash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b2;');
+}
+.jc-brackets-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b3;');
+}
+.jc-briefcase-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b4;');
+}
+.jc-briefcase-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b5;');
+}
+.jc-browser {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;');
+}
+.jc-brush-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b7;');
+}
+.jc-brush-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b8;');
+}
+.jc-brush-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b9;');
+}
+.jc-building-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ba;');
+}
+.jc-building-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bb;');
+}
+.jc-building-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bc;');
+}
+.jc-building-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bd;');
+}
+.jc-building-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9be;');
+}
+.jc-building-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bf;');
+}
+.jc-building-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c0;');
+}
+.jc-building-08 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c1;');
+}
+.jc-bus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;');
+}
+.jc-calculator {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;');
+}
+.jc-calendar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;');
+}
+.jc-calendar-check-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;');
+}
+.jc-calendar-check-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;');
+}
+.jc-calendar-date {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;');
+}
+.jc-calendar-heart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
+}
+.jc-calendar-heart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;');
+}
+.jc-calendar-minus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ca;');
+}
+.jc-calendar-minus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;');
+}
+.jc-calendar-plus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cc;');
+}
+.jc-calendar-plus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cd;');
+}
+.jc-camera-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ce;');
+}
+.jc-camera-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;');
+}
+.jc-camera-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d0;');
+}
+.jc-camera-lens {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d1;');
+}
+.jc-camera-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d2;');
+}
+.jc-camera-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d3;');
+}
+.jc-car-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d4;');
+}
+.jc-car-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d5;');
+}
+.jc-certificate-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d6;');
+}
+.jc-certificate-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d7;');
+}
+.jc-chart-breakout-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d8;');
+}
+.jc-chart-breakout-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d9;');
+}
+.jc-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9da;');
+}
+.jc-check-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9db;');
+}
+.jc-check-circle-broken {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dc;');
+}
+.jc-check-done-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dd;');
+}
+.jc-check-done-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9de;');
+}
+.jc-check-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9df;');
+}
+.jc-check-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e0;');
+}
+.jc-check-square-broken {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;');
+}
+.jc-check-verified-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;');
+}
+.jc-check-verified-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;');
+}
+.jc-check-verified-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e4;');
+}
+.jc-chevron-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;');
+}
+.jc-chevron-down-double {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e6;');
+}
+.jc-chevron-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e7;');
+}
+.jc-chevron-left-double {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e8;');
+}
+.jc-chevron-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e9;');
+}
+.jc-chevron-right-double {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ea;');
+}
+.jc-chevron-selector-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9eb;');
+}
+.jc-chevron-selector-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ec;');
+}
+.jc-chevron-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ed;');
+}
+.jc-chevron-up-double {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ee;');
+}
+.jc-chrome-cast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ef;');
+}
+.jc-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f0;');
+}
+.jc-circle-cut {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f1;');
+}
+.jc-clapperboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f2;');
+}
+.jc-clipboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f3;');
+}
+.jc-clipboard-attachment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f4;');
+}
+.jc-clipboard-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f5;');
+}
+.jc-clipboard-download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f6;');
+}
+.jc-clipboard-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f7;');
+}
+.jc-clipboard-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f8;');
+}
+.jc-clipboard-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f9;');
+}
+.jc-clock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fa;');
+}
+.jc-clock-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fb;');
+}
+.jc-clock-fast-forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fc;');
+}
+.jc-clock-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fd;');
+}
+.jc-clock-refresh {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;');
+}
+.jc-clock-rewind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ff;');
+}
+.jc-clock-snooze {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
+}
+.jc-clock-stopwatch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea01;');
+}
+.jc-cloud-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea02;');
+}
+.jc-cloud-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;');
+}
+.jc-cloud-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea04;');
+}
+.jc-cloud-blank-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea05;');
+}
+.jc-cloud-blank-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea06;');
+}
+.jc-cloud-lightning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea07;');
+}
+.jc-cloud-moon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea08;');
+}
+.jc-cloud-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea09;');
+}
+.jc-cloud-raining-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0a;');
+}
+.jc-cloud-raining-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0b;');
+}
+.jc-cloud-raining-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0c;');
+}
+.jc-cloud-raining-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;');
+}
+.jc-cloud-raining-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0e;');
+}
+.jc-cloud-raining-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0f;');
+}
+.jc-cloud-snowing-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea10;');
+}
+.jc-cloud-snowing-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea11;');
+}
+.jc-cloud-sun-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea12;');
+}
+.jc-cloud-sun-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea13;');
+}
+.jc-cloud-sun-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea14;');
+}
+.jc-code-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea15;');
+}
+.jc-code-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea16;');
+}
+.jc-code-browser {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea17;');
+}
+.jc-code-circle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea18;');
+}
+.jc-code-circle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea19;');
+}
+.jc-code-circle-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1a;');
+}
+.jc-code-snippet-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1b;');
+}
+.jc-code-snippet-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1c;');
+}
+.jc-code-square-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1d;');
+}
+.jc-code-square-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1e;');
+}
+.jc-codepen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1f;');
+}
+.jc-coins-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea20;');
+}
+.jc-coins-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea21;');
+}
+.jc-coins-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea22;');
+}
+.jc-coins-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea23;');
+}
+.jc-coins-hand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea24;');
+}
+.jc-coins-stacked-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea25;');
+}
+.jc-coins-stacked-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea26;');
+}
+.jc-coins-stacked-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea27;');
+}
+.jc-coins-stacked-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea28;');
+}
+.jc-coins-swap-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea29;');
+}
+.jc-coins-swap-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2a;');
+}
+.jc-colors {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2b;');
+}
+.jc-colors1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2c;');
+}
+.jc-columns-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2d;');
+}
+.jc-columns-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2e;');
+}
+.jc-columns-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2f;');
+}
+.jc-command {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea30;');
+}
+.jc-compass {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea31;');
+}
+.jc-compass-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea32;');
+}
+.jc-compass-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea33;');
+}
+.jc-compass-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea34;');
+}
+.jc-container {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea35;');
+}
+.jc-contrast-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;');
+}
+.jc-contrast-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;');
+}
+.jc-contrast-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea38;');
+}
+.jc-copy-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea39;');
+}
+.jc-copy-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3a;');
+}
+.jc-copy-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3b;');
+}
+.jc-copy-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;');
+}
+.jc-copy-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3d;');
+}
+.jc-copy-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3e;');
+}
+.jc-copy-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3f;');
+}
+.jc-corner-down-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea40;');
+}
+.jc-corner-down-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea41;');
+}
+.jc-corner-left-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea42;');
+}
+.jc-corner-left-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea43;');
+}
+.jc-corner-right-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea44;');
+}
+.jc-corner-right-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea45;');
+}
+.jc-corner-up-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea46;');
+}
+.jc-corner-up-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea47;');
+}
+.jc-cpu-chip-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea48;');
+}
+.jc-cpu-chip-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea49;');
+}
+.jc-credit-card-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4a;');
+}
+.jc-credit-card-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;');
+}
+.jc-credit-card-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4c;');
+}
+.jc-credit-card-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4d;');
+}
+.jc-credit-card-download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4e;');
+}
+.jc-credit-card-edit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4f;');
+}
+.jc-credit-card-lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea50;');
+}
+.jc-credit-card-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea51;');
+}
+.jc-credit-card-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea52;');
+}
+.jc-credit-card-refresh {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea53;');
+}
+.jc-credit-card-search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea54;');
+}
+.jc-credit-card-shield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea55;');
+}
+.jc-credit-card-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea56;');
+}
+.jc-credit-card-upload {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea57;');
+}
+.jc-credit-card-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea58;');
+}
+.jc-crop-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea59;');
+}
+.jc-crop-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5a;');
+}
+.jc-cryptocurrency-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5b;');
+}
+.jc-cryptocurrency-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5c;');
+}
+.jc-cryptocurrency-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5d;');
+}
+.jc-cryptocurrency-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5e;');
+}
+.jc-cube-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5f;');
+}
+.jc-cube-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea60;');
+}
+.jc-cube-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea61;');
+}
+.jc-cube-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea62;');
+}
+.jc-cube-outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea63;');
+}
+.jc-currency-bitcoin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea64;');
+}
+.jc-currency-bitcoin-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea65;');
+}
+.jc-currency-dollar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea66;');
+}
+.jc-currency-dollar-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea67;');
+}
+.jc-currency-ethereum {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea68;');
+}
+.jc-currency-ethereum-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea69;');
+}
+.jc-currency-euro {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6a;');
+}
+.jc-currency-euro-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6b;');
+}
+.jc-currency-pound {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6c;');
+}
+.jc-currency-pound-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6d;');
+}
+.jc-currency-ruble {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6e;');
+}
+.jc-currency-ruble-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6f;');
+}
+.jc-currency-rupee {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea70;');
+}
+.jc-currency-rupee-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea71;');
+}
+.jc-currency-yen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea72;');
+}
+.jc-currency-yen-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea73;');
+}
+.jc-cursor-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea74;');
+}
+.jc-cursor-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea75;');
+}
+.jc-cursor-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea76;');
+}
+.jc-cursor-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea77;');
+}
+.jc-cursor-box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea78;');
+}
+.jc-cursor-click-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea79;');
+}
+.jc-cursor-click-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7a;');
+}
+.jc-data {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7b;');
+}
+.jc-database-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7c;');
+}
+.jc-database-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7d;');
+}
+.jc-database-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7e;');
+}
+.jc-dataflow-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7f;');
+}
+.jc-dataflow-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea80;');
+}
+.jc-dataflow-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea81;');
+}
+.jc-dataflow-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea82;');
+}
+.jc-delete {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea83;');
+}
+.jc-diamond-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea84;');
+}
+.jc-diamond-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea85;');
+}
+.jc-dice-1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea86;');
+}
+.jc-dice-2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea87;');
+}
+.jc-dice-3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea88;');
+}
+.jc-dice-4 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea89;');
+}
+.jc-dice-5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8a;');
+}
+.jc-dice-6 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8b;');
+}
+.jc-disc-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8c;');
+}
+.jc-disc-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8d;');
+}
+.jc-distribute-spacing-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8e;');
+}
+.jc-distribute-spacing-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8f;');
+}
+.jc-divide-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea90;');
+}
+.jc-divide-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea91;');
+}
+.jc-divide-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea92;');
+}
+.jc-divider {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea93;');
+}
+.jc-dotpoints-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea94;');
+}
+.jc-dotpoints-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea95;');
+}
+.jc-dots-grid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea96;');
+}
+.jc-dots-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea97;');
+}
+.jc-dots-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea98;');
+}
+.jc-download-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea99;');
+}
+.jc-download-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9a;');
+}
+.jc-download-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9b;');
+}
+.jc-download-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9c;');
+}
+.jc-download-cloud-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9d;');
+}
+.jc-download-cloud-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9e;');
+}
+.jc-drop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9f;');
+}
+.jc-droplets-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa0;');
+}
+.jc-droplets-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa1;');
+}
+.jc-droplets-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa2;');
+}
+.jc-dropper {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa3;');
+}
+.jc-edit-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa4;');
+}
+.jc-edit-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa5;');
+}
+.jc-edit-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa6;');
+}
+.jc-edit-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa7;');
+}
+.jc-edit-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa8;');
+}
+.jc-equal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa9;');
+}
+.jc-equal-not {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaa;');
+}
+.jc-eraser {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaab;');
+}
+.jc-expand-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaac;');
+}
+.jc-expand-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaad;');
+}
+.jc-expand-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaae;');
+}
+.jc-expand-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaf;');
+}
+.jc-expand-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab0;');
+}
+.jc-expand-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab1;');
+}
+.jc-eye {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab2;');
+}
+.jc-eye-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab3;');
+}
+.jc-face-content {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab4;');
+}
+.jc-face-frown {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab5;');
+}
+.jc-face-happy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab6;');
+}
+.jc-face-id {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab7;');
+}
+.jc-face-id-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab8;');
+}
+.jc-face-neutral {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab9;');
+}
+.jc-face-sad {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaba;');
+}
+.jc-face-smile {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabb;');
+}
+.jc-face-wink {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabc;');
+}
+.jc-fast-backward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabd;');
+}
+.jc-fast-forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabe;');
+}
+.jc-feather {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabf;');
+}
+.jc-figma {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac0;');
+}
+.jc-file-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac1;');
+}
+.jc-file-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac2;');
+}
+.jc-file-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac3;');
+}
+.jc-file-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac4;');
+}
+.jc-file-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac5;');
+}
+.jc-file-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac6;');
+}
+.jc-file-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac7;');
+}
+.jc-file-attachment-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac8;');
+}
+.jc-file-attachment-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac9;');
+}
+.jc-file-attachment-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaca;');
+}
+.jc-file-attachment-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacb;');
+}
+.jc-file-attachment-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacc;');
+}
+.jc-file-check-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacd;');
+}
+.jc-file-check-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeace;');
+}
+.jc-file-check-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacf;');
+}
+.jc-file-code-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead0;');
+}
+.jc-file-code-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead1;');
+}
+.jc-file-download-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead2;');
+}
+.jc-file-download-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead3;');
+}
+.jc-file-download-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead4;');
+}
+.jc-file-heart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead5;');
+}
+.jc-file-heart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead6;');
+}
+.jc-file-heart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead7;');
+}
+.jc-file-lock-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead8;');
+}
+.jc-file-lock-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead9;');
+}
+.jc-file-lock-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeada;');
+}
+.jc-file-minus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadb;');
+}
+.jc-file-minus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadc;');
+}
+.jc-file-minus-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadd;');
+}
+.jc-file-plus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeade;');
+}
+.jc-file-plus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadf;');
+}
+.jc-file-plus-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae0;');
+}
+.jc-file-question-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae1;');
+}
+.jc-file-question-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae2;');
+}
+.jc-file-question-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae3;');
+}
+.jc-file-search-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae4;');
+}
+.jc-file-search-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae5;');
+}
+.jc-file-search-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae6;');
+}
+.jc-file-shield-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae7;');
+}
+.jc-file-shield-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae8;');
+}
+.jc-file-shield-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae9;');
+}
+.jc-file-x-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaea;');
+}
+.jc-file-x-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaeb;');
+}
+.jc-file-x-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaec;');
+}
+.jc-film-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaed;');
+}
+.jc-film-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaee;');
+}
+.jc-film-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaef;');
+}
+.jc-filter-funnel-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf0;');
+}
+.jc-filter-funnel-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf1;');
+}
+.jc-filter-lines {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf2;');
+}
+.jc-fingerprint-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf3;');
+}
+.jc-fingerprint-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf4;');
+}
+.jc-fingerprint-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf5;');
+}
+.jc-fingerprint-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf6;');
+}
+.jc-flag-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf7;');
+}
+.jc-flag-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf8;');
+}
+.jc-flag-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf9;');
+}
+.jc-flag-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafa;');
+}
+.jc-flag-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafb;');
+}
+.jc-flag-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafc;');
+}
+.jc-flash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafd;');
+}
+.jc-flash-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafe;');
+}
+.jc-flex-align-bottom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaff;');
+}
+.jc-flex-align-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb00;');
+}
+.jc-flex-align-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb01;');
+}
+.jc-flex-align-top {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb02;');
+}
+.jc-flip-backward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb03;');
+}
+.jc-flip-forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb04;');
+}
+.jc-folder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb05;');
+}
+.jc-folder-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb06;');
+}
+.jc-folder-closed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb07;');
+}
+.jc-folder-code {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb08;');
+}
+.jc-folder-download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb09;');
+}
+.jc-folder-lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0a;');
+}
+.jc-folder-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0b;');
+}
+.jc-folder-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0c;');
+}
+.jc-folder-question {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0d;');
+}
+.jc-folder-search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0e;');
+}
+.jc-folder-shield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0f;');
+}
+.jc-folder-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb10;');
+}
+.jc-framer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb11;');
+}
+.jc-gaming-pad-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb12;');
+}
+.jc-gaming-pad-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb13;');
+}
+.jc-gift-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb14;');
+}
+.jc-gift-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb15;');
+}
+.jc-git-branch-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb16;');
+}
+.jc-git-branch-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb17;');
+}
+.jc-git-commit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb18;');
+}
+.jc-git-merge {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb19;');
+}
+.jc-git-pull-request {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1a;');
+}
+.jc-glasses-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1b;');
+}
+.jc-glasses-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1c;');
+}
+.jc-globe-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1d;');
+}
+.jc-globe-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1e;');
+}
+.jc-globe-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1f;');
+}
+.jc-globe-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb20;');
+}
+.jc-globe-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb21;');
+}
+.jc-globe-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb22;');
+}
+.jc-globe-slated-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb23;');
+}
+.jc-globe-slated-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb24;');
+}
+.jc-google-chrome {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb25;');
+}
+.jc-graduation-hat-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb26;');
+}
+.jc-graduation-hat-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb27;');
+}
+.jc-grid-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb28;');
+}
+.jc-grid-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb29;');
+}
+.jc-grid-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2a;');
+}
+.jc-grid-dots-blank {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2b;');
+}
+.jc-grid-dots-bottom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2c;');
+}
+.jc-grid-dots-horizontal-center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2d;');
+}
+.jc-grid-dots-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2e;');
+}
+.jc-grid-dots-outer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2f;');
+}
+.jc-grid-dots-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb30;');
+}
+.jc-grid-dots-top {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb31;');
+}
+.jc-grid-dots-vertical-center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb32;');
+}
+.jc-hand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb33;');
+}
+.jc-hard-drive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb34;');
+}
+.jc-hash-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb35;');
+}
+.jc-hash-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb36;');
+}
+.jc-heading-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb37;');
+}
+.jc-heading-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb38;');
+}
+.jc-heading-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb39;');
+}
+.jc-headphones-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3a;');
+}
+.jc-headphones-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3b;');
+}
+.jc-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3c;');
+}
+.jc-heart-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3d;');
+}
+.jc-heart-hand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3e;');
+}
+.jc-heart-hexagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3f;');
+}
+.jc-heart-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb40;');
+}
+.jc-heart-rounded {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb41;');
+}
+.jc-heart-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb42;');
+}
+.jc-hearts {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb43;');
+}
+.jc-help-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb44;');
+}
+.jc-help-hexagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb45;');
+}
+.jc-help-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb46;');
+}
+.jc-help-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb47;');
+}
+.jc-hexagon-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb48;');
+}
+.jc-hexagon-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb49;');
+}
+.jc-home-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4a;');
+}
+.jc-home-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4b;');
+}
+.jc-home-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4c;');
+}
+.jc-home-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4d;');
+}
+.jc-home-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4e;');
+}
+.jc-home-line {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4f;');
+}
+.jc-home-smile {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb50;');
+}
+.jc-horizontal-bar-chart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb51;');
+}
+.jc-horizontal-bar-chart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb52;');
+}
+.jc-horizontal-bar-chart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb53;');
+}
+.jc-hourglass-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb54;');
+}
+.jc-hourglass-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb55;');
+}
+.jc-hourglass-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb56;');
+}
+.jc-hurricane-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb57;');
+}
+.jc-hurricane-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb58;');
+}
+.jc-hurricane-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb59;');
+}
+.jc-image-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5a;');
+}
+.jc-image-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5b;');
+}
+.jc-image-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5c;');
+}
+.jc-image-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5d;');
+}
+.jc-image-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5e;');
+}
+.jc-image-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5f;');
+}
+.jc-image-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb60;');
+}
+.jc-image-indent-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb61;');
+}
+.jc-image-indent-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb62;');
+}
+.jc-image-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb63;');
+}
+.jc-image-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb64;');
+}
+.jc-image-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb65;');
+}
+.jc-image-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb66;');
+}
+.jc-image-user {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb67;');
+}
+.jc-image-user-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb68;');
+}
+.jc-image-user-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb69;');
+}
+.jc-image-user-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6a;');
+}
+.jc-image-user-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6b;');
+}
+.jc-image-user-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6c;');
+}
+.jc-image-user-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6d;');
+}
+.jc-image-user-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6e;');
+}
+.jc-image-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6f;');
+}
+.jc-inbox-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb70;');
+}
+.jc-inbox-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb71;');
+}
+.jc-infinity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb72;');
+}
+.jc-info-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb73;');
+}
+.jc-info-hexagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb74;');
+}
+.jc-info-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb75;');
+}
+.jc-info-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb76;');
+}
+.jc-intersect-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb77;');
+}
+.jc-intersect-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb78;');
+}
+.jc-italic-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb79;');
+}
+.jc-italic-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7a;');
+}
+.jc-italic-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7b;');
+}
+.jc-key-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7c;');
+}
+.jc-key-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7d;');
+}
+.jc-keyboard-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7e;');
+}
+.jc-keyboard-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7f;');
+}
+.jc-laptop-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb80;');
+}
+.jc-laptop-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb81;');
+}
+.jc-layer-single {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb82;');
+}
+.jc-layers-three-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb83;');
+}
+.jc-layers-three-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb84;');
+}
+.jc-layers-two-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb85;');
+}
+.jc-layers-two-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb86;');
+}
+.jc-layout-alt-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb87;');
+}
+.jc-layout-alt-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb88;');
+}
+.jc-layout-alt-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb89;');
+}
+.jc-layout-alt-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8a;');
+}
+.jc-layout-bottom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8b;');
+}
+.jc-layout-grid-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8c;');
+}
+.jc-layout-grid-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8d;');
+}
+.jc-layout-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8e;');
+}
+.jc-layout-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8f;');
+}
+.jc-layout-top {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb90;');
+}
+.jc-left-indent-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb91;');
+}
+.jc-left-indent-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb92;');
+}
+.jc-letter-spacing-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb93;');
+}
+.jc-letter-spacing-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb94;');
+}
+.jc-life-buoy-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb95;');
+}
+.jc-life-buoy-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb96;');
+}
+.jc-lightbulb-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb97;');
+}
+.jc-lightbulb-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb98;');
+}
+.jc-lightbulb-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb99;');
+}
+.jc-lightbulb-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9a;');
+}
+.jc-lightbulb-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9b;');
+}
+.jc-lightning-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9c;');
+}
+.jc-lightning-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9d;');
+}
+.jc-line-chart-down-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9e;');
+}
+.jc-line-chart-down-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9f;');
+}
+.jc-line-chart-down-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba0;');
+}
+.jc-line-chart-down-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba1;');
+}
+.jc-line-chart-down-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba2;');
+}
+.jc-line-chart-up-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba3;');
+}
+.jc-line-chart-up-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba4;');
+}
+.jc-line-chart-up-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba5;');
+}
+.jc-line-chart-up-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba6;');
+}
+.jc-line-chart-up-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba7;');
+}
+.jc-line-height {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba8;');
+}
+.jc-link-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba9;');
+}
+.jc-link-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebaa;');
+}
+.jc-link-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebab;');
+}
+.jc-link-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebac;');
+}
+.jc-link-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebad;');
+}
+.jc-link-broken-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebae;');
+}
+.jc-link-broken-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebaf;');
+}
+.jc-link-external-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb0;');
+}
+.jc-link-external-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb1;');
+}
+.jc-list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb2;');
+}
+.jc-loading-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb3;');
+}
+.jc-loading-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb4;');
+}
+.jc-loading-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb5;');
+}
+.jc-lock-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb6;');
+}
+.jc-lock-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb7;');
+}
+.jc-lock-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb8;');
+}
+.jc-lock-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb9;');
+}
+.jc-lock-keyhole-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebba;');
+}
+.jc-lock-keyhole-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbb;');
+}
+.jc-lock-unlocked-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbc;');
+}
+.jc-lock-unlocked-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbd;');
+}
+.jc-lock-unlocked-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbe;');
+}
+.jc-lock-unlocked-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbf;');
+}
+.jc-log-in-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc0;');
+}
+.jc-log-in-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc1;');
+}
+.jc-log-in-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc2;');
+}
+.jc-log-in-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc3;');
+}
+.jc-log-out-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc4;');
+}
+.jc-log-out-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc5;');
+}
+.jc-log-out-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc6;');
+}
+.jc-log-out-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc7;');
+}
+.jc-logo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed95;');
+}
+.jc-logo-full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed96;');
+}
+.jc-luggage-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc8;');
+}
+.jc-luggage-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc9;');
+}
+.jc-luggage-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebca;');
+}
+.jc-magic-wand-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcb;');
+}
+.jc-magic-wand-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcc;');
+}
+.jc-mail-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcd;');
+}
+.jc-mail-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebce;');
+}
+.jc-mail-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcf;');
+}
+.jc-mail-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd0;');
+}
+.jc-mail-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd1;');
+}
+.jc-map-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd2;');
+}
+.jc-map-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd3;');
+}
+.jc-mark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd4;');
+}
+.jc-marker-pin-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd5;');
+}
+.jc-marker-pin-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd6;');
+}
+.jc-marker-pin-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd7;');
+}
+.jc-marker-pin-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd8;');
+}
+.jc-marker-pin-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd9;');
+}
+.jc-marker-pin-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebda;');
+}
+.jc-maximize-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdb;');
+}
+.jc-maximize-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdc;');
+}
+.jc-medical-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdd;');
+}
+.jc-medical-cross {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebde;');
+}
+.jc-medical-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdf;');
+}
+.jc-menu-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe0;');
+}
+.jc-menu-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe1;');
+}
+.jc-menu-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe2;');
+}
+.jc-menu-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe3;');
+}
+.jc-menu-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe4;');
+}
+.jc-message-alert-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe5;');
+}
+.jc-message-alert-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe6;');
+}
+.jc-message-chat-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe7;');
+}
+.jc-message-chat-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe8;');
+}
+.jc-message-check-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe9;');
+}
+.jc-message-check-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebea;');
+}
+.jc-message-circle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebeb;');
+}
+.jc-message-circle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebec;');
+}
+.jc-message-dots-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebed;');
+}
+.jc-message-dots-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebee;');
+}
+.jc-message-heart-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebef;');
+}
+.jc-message-heart-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf0;');
+}
+.jc-message-notification-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf1;');
+}
+.jc-message-notification-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf2;');
+}
+.jc-message-plus-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf3;');
+}
+.jc-message-plus-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf4;');
+}
+.jc-message-question-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf5;');
+}
+.jc-message-question-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf6;');
+}
+.jc-message-smile-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf7;');
+}
+.jc-message-smile-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf8;');
+}
+.jc-message-square-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf9;');
+}
+.jc-message-square-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfa;');
+}
+.jc-message-text-circle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfb;');
+}
+.jc-message-text-circle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfc;');
+}
+.jc-message-text-square-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfd;');
+}
+.jc-message-text-square-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfe;');
+}
+.jc-message-x-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebff;');
+}
+.jc-message-x-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec00;');
+}
+.jc-microphone-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec01;');
+}
+.jc-microphone-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec02;');
+}
+.jc-microphone-off-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec03;');
+}
+.jc-microphone-off-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec04;');
+}
+.jc-microscope {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec05;');
+}
+.jc-minimize-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec06;');
+}
+.jc-minimize-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec07;');
+}
+.jc-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec08;');
+}
+.jc-minus-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec09;');
+}
+.jc-minus-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0a;');
+}
+.jc-modem-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0b;');
+}
+.jc-modem-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0c;');
+}
+.jc-monitor-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0d;');
+}
+.jc-monitor-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0e;');
+}
+.jc-monitor-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0f;');
+}
+.jc-monitor-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec10;');
+}
+.jc-monitor-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec11;');
+}
+.jc-moon-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec12;');
+}
+.jc-moon-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec13;');
+}
+.jc-moon-eclipse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec14;');
+}
+.jc-moon-star {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec15;');
+}
+.jc-mouse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec16;');
+}
+.jc-move {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec17;');
+}
+.jc-music-note-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec18;');
+}
+.jc-music-note-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec19;');
+}
+.jc-music-note-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1a;');
+}
+.jc-navigation-pointer-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1b;');
+}
+.jc-navigation-pointer-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1c;');
+}
+.jc-navigation-pointer-off-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1d;');
+}
+.jc-navigation-pointer-off-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1e;');
+}
+.jc-notification-box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1f;');
+}
+.jc-notification-message {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec20;');
+}
+.jc-notification-text {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec21;');
+}
+.jc-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec22;');
+}
+.jc-package {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec23;');
+}
+.jc-package-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec24;');
+}
+.jc-package-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec25;');
+}
+.jc-package-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec26;');
+}
+.jc-package-search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec27;');
+}
+.jc-package-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec28;');
+}
+.jc-paint {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec29;');
+}
+.jc-paint-pour {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2a;');
+}
+.jc-palette {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2b;');
+}
+.jc-paperclip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2c;');
+}
+.jc-paragraph-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2d;');
+}
+.jc-paragraph-wrap {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2e;');
+}
+.jc-passcode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2f;');
+}
+.jc-passcode-lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec30;');
+}
+.jc-passport {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec31;');
+}
+.jc-pause-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec32;');
+}
+.jc-pause-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec33;');
+}
+.jc-pen-tool-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec34;');
+}
+.jc-pen-tool-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec35;');
+}
+.jc-pen-tool-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec36;');
+}
+.jc-pen-tool-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec37;');
+}
+.jc-pencil-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec38;');
+}
+.jc-pencil-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec39;');
+}
+.jc-pencil-line {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3a;');
+}
+.jc-pentagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3b;');
+}
+.jc-percent-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3c;');
+}
+.jc-percent-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3d;');
+}
+.jc-percent-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3e;');
+}
+.jc-perspective-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3f;');
+}
+.jc-perspective-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec40;');
+}
+.jc-phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec41;');
+}
+.jc-phone-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec42;');
+}
+.jc-phone-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec43;');
+}
+.jc-phone-call-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec44;');
+}
+.jc-phone-call-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec45;');
+}
+.jc-phone-hang-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec46;');
+}
+.jc-phone-incoming-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec47;');
+}
+.jc-phone-incoming-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec48;');
+}
+.jc-phone-outgoing-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec49;');
+}
+.jc-phone-outgoing-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4a;');
+}
+.jc-phone-pause {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4b;');
+}
+.jc-phone-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4c;');
+}
+.jc-phone-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4d;');
+}
+.jc-pie-chart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4e;');
+}
+.jc-pie-chart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4f;');
+}
+.jc-pie-chart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec50;');
+}
+.jc-pie-chart-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec51;');
+}
+.jc-piggy-bank-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec52;');
+}
+.jc-piggy-bank-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec53;');
+}
+.jc-pilcrow-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec54;');
+}
+.jc-pilcrow-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec55;');
+}
+.jc-pilcrow-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec56;');
+}
+.jc-pin-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec57;');
+}
+.jc-pin-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec58;');
+}
+.jc-placeholder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec59;');
+}
+.jc-plane {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5a;');
+}
+.jc-play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5b;');
+}
+.jc-play-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5c;');
+}
+.jc-play-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5d;');
+}
+.jc-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5e;');
+}
+.jc-plus-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5f;');
+}
+.jc-plus-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec60;');
+}
+.jc-podcast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec61;');
+}
+.jc-power-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec62;');
+}
+.jc-power-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec63;');
+}
+.jc-power-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec64;');
+}
+.jc-presentation-chart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec65;');
+}
+.jc-presentation-chart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec66;');
+}
+.jc-presentation-chart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec67;');
+}
+.jc-printer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec68;');
+}
+.jc-puzzle-piece-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec69;');
+}
+.jc-puzzle-piece-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6a;');
+}
+.jc-qr-code-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6b;');
+}
+.jc-qr-code-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6c;');
+}
+.jc-receipt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6d;');
+}
+.jc-receipt-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6e;');
+}
+.jc-recording-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6f;');
+}
+.jc-recording-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec70;');
+}
+.jc-recording-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec71;');
+}
+.jc-reflect-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec72;');
+}
+.jc-reflect-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec73;');
+}
+.jc-refresh-ccw-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec74;');
+}
+.jc-refresh-ccw-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec75;');
+}
+.jc-refresh-ccw-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec76;');
+}
+.jc-refresh-ccw-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec77;');
+}
+.jc-refresh-ccw-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec78;');
+}
+.jc-refresh-cw-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec79;');
+}
+.jc-refresh-cw-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7a;');
+}
+.jc-refresh-cw-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7b;');
+}
+.jc-refresh-cw-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7c;');
+}
+.jc-refresh-cw-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7d;');
+}
+.jc-repeat-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7e;');
+}
+.jc-repeat-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7f;');
+}
+.jc-repeat-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec80;');
+}
+.jc-repeat-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec81;');
+}
+.jc-reverse-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec82;');
+}
+.jc-reverse-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec83;');
+}
+.jc-right-indent-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec84;');
+}
+.jc-right-indent-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec85;');
+}
+.jc-rocket-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec86;');
+}
+.jc-rocket-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec87;');
+}
+.jc-roller-brush {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec88;');
+}
+.jc-route {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec89;');
+}
+.jc-rows-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8a;');
+}
+.jc-rows-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8b;');
+}
+.jc-rows-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8c;');
+}
+.jc-rss-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8d;');
+}
+.jc-rss-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8e;');
+}
+.jc-ruler {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8f;');
+}
+.jc-safe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec90;');
+}
+.jc-sale-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec91;');
+}
+.jc-sale-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec92;');
+}
+.jc-sale-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec93;');
+}
+.jc-sale-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec94;');
+}
+.jc-save-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec95;');
+}
+.jc-save-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec96;');
+}
+.jc-save-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec97;');
+}
+.jc-scale-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec98;');
+}
+.jc-scale-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec99;');
+}
+.jc-scale-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9a;');
+}
+.jc-scales-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9b;');
+}
+.jc-scales-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9c;');
+}
+.jc-scan {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9d;');
+}
+.jc-scissors-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9e;');
+}
+.jc-scissors-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9f;');
+}
+.jc-scissors-cut-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca0;');
+}
+.jc-scissors-cut-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca1;');
+}
+.jc-search-lg {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca2;');
+}
+.jc-search-md {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca3;');
+}
+.jc-search-refraction {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca4;');
+}
+.jc-search-sm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca5;');
+}
+.jc-send-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca6;');
+}
+.jc-send-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca7;');
+}
+.jc-send-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca8;');
+}
+.jc-server-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca9;');
+}
+.jc-server-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecaa;');
+}
+.jc-server-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecab;');
+}
+.jc-server-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecac;');
+}
+.jc-server-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecad;');
+}
+.jc-server-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecae;');
+}
+.jc-settings-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecaf;');
+}
+.jc-settings-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb0;');
+}
+.jc-settings-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb1;');
+}
+.jc-settings-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb2;');
+}
+.jc-share-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb3;');
+}
+.jc-share-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb4;');
+}
+.jc-share-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb5;');
+}
+.jc-share-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb6;');
+}
+.jc-share-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb7;');
+}
+.jc-share-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb8;');
+}
+.jc-share-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb9;');
+}
+.jc-shield-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecba;');
+}
+.jc-shield-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbb;');
+}
+.jc-shield-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbc;');
+}
+.jc-shield-dollar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbd;');
+}
+.jc-shield-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbe;');
+}
+.jc-shield-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbf;');
+}
+.jc-shield-tick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc0;');
+}
+.jc-shield-zap {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc1;');
+}
+.jc-shopping-bag-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc2;');
+}
+.jc-shopping-bag-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc3;');
+}
+.jc-shopping-bag-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc4;');
+}
+.jc-shopping-cart-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc5;');
+}
+.jc-shopping-cart-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc6;');
+}
+.jc-shopping-cart-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc7;');
+}
+.jc-shuffle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc8;');
+}
+.jc-shuffle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc9;');
+}
+.jc-signal-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecca;');
+}
+.jc-signal-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccb;');
+}
+.jc-signal-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccc;');
+}
+.jc-simcard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccd;');
+}
+.jc-skew {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecce;');
+}
+.jc-skip-back {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccf;');
+}
+.jc-skip-forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd0;');
+}
+.jc-slash-circle-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd1;');
+}
+.jc-slash-circle-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd2;');
+}
+.jc-slash-divider {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd3;');
+}
+.jc-slash-octagon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd4;');
+}
+.jc-sliders-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd5;');
+}
+.jc-sliders-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd6;');
+}
+.jc-sliders-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd7;');
+}
+.jc-sliders-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd8;');
+}
+.jc-snowflake-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd9;');
+}
+.jc-snowflake-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecda;');
+}
+.jc-spacing-height-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdb;');
+}
+.jc-spacing-height-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdc;');
+}
+.jc-spacing-width-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdd;');
+}
+.jc-spacing-width-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecde;');
+}
+.jc-speaker-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdf;');
+}
+.jc-speaker-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece0;');
+}
+.jc-speaker-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece1;');
+}
+.jc-speedometer-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece2;');
+}
+.jc-speedometer-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece3;');
+}
+.jc-speedometer-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece4;');
+}
+.jc-speedometer-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece5;');
+}
+.jc-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece6;');
+}
+.jc-stand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece7;');
+}
+.jc-star-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece8;');
+}
+.jc-star-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece9;');
+}
+.jc-star-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecea;');
+}
+.jc-star-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeceb;');
+}
+.jc-star-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecec;');
+}
+.jc-star-06 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeced;');
+}
+.jc-star-07 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecee;');
+}
+.jc-stars-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecef;');
+}
+.jc-stars-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf0;');
+}
+.jc-stars-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf1;');
+}
+.jc-sticker-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf2;');
+}
+.jc-sticker-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf3;');
+}
+.jc-stop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf4;');
+}
+.jc-stop-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf5;');
+}
+.jc-stop-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf6;');
+}
+.jc-strikethrough-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf7;');
+}
+.jc-strikethrough-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf8;');
+}
+.jc-strikethrough-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf9;');
+}
+.jc-subscript {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfa;');
+}
+.jc-sun {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfb;');
+}
+.jc-sun-setting-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfc;');
+}
+.jc-sun-setting-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfd;');
+}
+.jc-sun-setting-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfe;');
+}
+.jc-sunrise {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecff;');
+}
+.jc-sunset {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed00;');
+}
+.jc-switch-horizontal-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed01;');
+}
+.jc-switch-horizontal-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed02;');
+}
+.jc-switch-vertical-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed03;');
+}
+.jc-switch-vertical-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed04;');
+}
+.jc-table {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed05;');
+}
+.jc-tablet-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed06;');
+}
+.jc-tablet-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed07;');
+}
+.jc-tag-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed08;');
+}
+.jc-tag-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed09;');
+}
+.jc-tag-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0a;');
+}
+.jc-target-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0b;');
+}
+.jc-target-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0c;');
+}
+.jc-target-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0d;');
+}
+.jc-target-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0e;');
+}
+.jc-target-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0f;');
+}
+.jc-telescope {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed10;');
+}
+.jc-terminal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed11;');
+}
+.jc-terminal-browser {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed12;');
+}
+.jc-terminal-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed13;');
+}
+.jc-terminal-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed14;');
+}
+.jc-text-input {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed15;');
+}
+.jc-thermometer-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed16;');
+}
+.jc-thermometer-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed17;');
+}
+.jc-thermometer-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed18;');
+}
+.jc-thermometer-cold {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed19;');
+}
+.jc-thermometer-warm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1a;');
+}
+.jc-thumbs-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1b;');
+}
+.jc-thumbs-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1c;');
+}
+.jc-ticket-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1d;');
+}
+.jc-ticket-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1e;');
+}
+.jc-toggle-01-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1f;');
+}
+.jc-toggle-01-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed20;');
+}
+.jc-toggle-02-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed21;');
+}
+.jc-toggle-02-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed22;');
+}
+.jc-toggle-03-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed23;');
+}
+.jc-toggle-03-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed24;');
+}
+.jc-tool-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed25;');
+}
+.jc-tool-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed26;');
+}
+.jc-train {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed27;');
+}
+.jc-tram {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed28;');
+}
+.jc-transform {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed29;');
+}
+.jc-translate-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2a;');
+}
+.jc-translate-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2b;');
+}
+.jc-trash-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2c;');
+}
+.jc-trash-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2d;');
+}
+.jc-trash-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2e;');
+}
+.jc-trash-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2f;');
+}
+.jc-trend-down-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed30;');
+}
+.jc-trend-down-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed31;');
+}
+.jc-trend-up-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed32;');
+}
+.jc-trend-up-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed33;');
+}
+.jc-triangle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed34;');
+}
+.jc-trophy-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed35;');
+}
+.jc-trophy-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed36;');
+}
+.jc-truck-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed37;');
+}
+.jc-truck-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed38;');
+}
+.jc-tv-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed39;');
+}
+.jc-tv-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3a;');
+}
+.jc-tv-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3b;');
+}
+.jc-type-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3c;');
+}
+.jc-type-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3d;');
+}
+.jc-type-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3e;');
+}
+.jc-type-strikethrough-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3f;');
+}
+.jc-type-strikethrough-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed40;');
+}
+.jc-umbrella-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed41;');
+}
+.jc-umbrella-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed42;');
+}
+.jc-umbrella-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed43;');
+}
+.jc-underline-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed44;');
+}
+.jc-underline-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed45;');
+}
+.jc-underline-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed46;');
+}
+.jc-upload-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed47;');
+}
+.jc-upload-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed48;');
+}
+.jc-upload-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed49;');
+}
+.jc-upload-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4a;');
+}
+.jc-upload-cloud-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4b;');
+}
+.jc-upload-cloud-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4c;');
+}
+.jc-usb-flash-drive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4d;');
+}
+.jc-user-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4e;');
+}
+.jc-user-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4f;');
+}
+.jc-user-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed50;');
+}
+.jc-user-check-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed51;');
+}
+.jc-user-check-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed52;');
+}
+.jc-user-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed53;');
+}
+.jc-user-down-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed54;');
+}
+.jc-user-down-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed55;');
+}
+.jc-user-edit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed56;');
+}
+.jc-user-left-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed57;');
+}
+.jc-user-left-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed58;');
+}
+.jc-user-minus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed59;');
+}
+.jc-user-minus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5a;');
+}
+.jc-user-plus-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5b;');
+}
+.jc-user-plus-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5c;');
+}
+.jc-user-right-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5d;');
+}
+.jc-user-right-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5e;');
+}
+.jc-user-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5f;');
+}
+.jc-user-up-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed60;');
+}
+.jc-user-up-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed61;');
+}
+.jc-user-x-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed62;');
+}
+.jc-user-x-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed63;');
+}
+.jc-users-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed64;');
+}
+.jc-users-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed65;');
+}
+.jc-users-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed66;');
+}
+.jc-users-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed67;');
+}
+.jc-users-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed68;');
+}
+.jc-users-edit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed69;');
+}
+.jc-users-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6a;');
+}
+.jc-users-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6b;');
+}
+.jc-users-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6c;');
+}
+.jc-users-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6d;');
+}
+.jc-users-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6e;');
+}
+.jc-users-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6f;');
+}
+.jc-variable {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed70;');
+}
+.jc-video-recorder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed71;');
+}
+.jc-video-recorder-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed72;');
+}
+.jc-virus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed73;');
+}
+.jc-voicemail {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed74;');
+}
+.jc-volume-max {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed75;');
+}
+.jc-volume-min {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed76;');
+}
+.jc-volume-minus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed77;');
+}
+.jc-volume-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed78;');
+}
+.jc-volume-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed79;');
+}
+.jc-wallet-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7a;');
+}
+.jc-wallet-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7b;');
+}
+.jc-wallet-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7c;');
+}
+.jc-wallet-04 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7d;');
+}
+.jc-wallet-05 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7e;');
+}
+.jc-watch-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed7f;');
+}
+.jc-watch-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed80;');
+}
+.jc-waves {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed81;');
+}
+.jc-webcam-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed82;');
+}
+.jc-webcam-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed83;');
+}
+.jc-wifi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed84;');
+}
+.jc-wifi-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed85;');
+}
+.jc-wind-01 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed86;');
+}
+.jc-wind-02 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed87;');
+}
+.jc-wind-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed88;');
+}
+.jc-x {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed89;');
+}
+.jc-x-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8a;');
+}
+.jc-x-close {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8b;');
+}
+.jc-x-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8c;');
+}
+.jc-youtube {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8d;');
+}
+.jc-zap {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8e;');
+}
+.jc-zap-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed8f;');
+}
+.jc-zap-fast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed90;');
+}
+.jc-zap-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed91;');
+}
+.jc-zap-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed92;');
+}
+.jc-zoom-in {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed93;');
+}
+.jc-zoom-out {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed94;');
+}
+
