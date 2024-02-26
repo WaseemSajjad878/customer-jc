@@ -6,49 +6,45 @@ input::-webkit-inner-spin-button {
 }
 
 /* Firefox */
-input[type=number] {
+input[type='number'] {
   -moz-appearance: textfield;
 }
 
-.custom-q-form{
-    .q-field--outlined{
-            .q-field__control:before{
-                border-color: $secondary-2;
-            }
+.custom-q-form {
+  .q-field--outlined {
+    .q-field__control:before {
+      border-color: $secondary-2;
     }
-    .q-field__native{
-        :first-child{
-            color: $secondary-1;
-        }
+  }
+  .q-field__native {
+    :first-child {
+      color: $secondary-1;
     }
-    .q-item__section{
-        background: $primary;
-    }
-    .jc-chevron-down{
-        color: #000;
-    }
+  }
+  .q-item__section {
+    background: $primary;
+  }
+  .jc-chevron-down {
+    color: #000;
+  }
 }
 
 .q-field--outlined {
-    %border-accent{
-         border: 2px solid $accent;
-    }
-    &.q-field--highlighted .q-field__control:after{
-         @extend %border-accent;
-    }
-    .q-field__control:hover:before{
-        @extend %border-accent;
-    }
+  %border-accent {
+    border: 2px solid $accent;
+  }
+  &.q-field--highlighted .q-field__control:after {
+    @extend %border-accent;
+  }
+  .q-field__control:hover:before {
+    @extend %border-accent;
+  }
 }
 
-.custom-checkbox{
-
-    &.hidden-checkbox{
-        .q-checkbox__inner{
-            display: none;
-        }
+.custom-checkbox {
+  &.hidden-checkbox {
+    .q-checkbox__inner {
+      display: none;
     }
+  }
 }
-
-
-  

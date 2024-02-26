@@ -32,7 +32,7 @@ const errorResponseHandler = (error) => {
     console.info(
       '✉ RES_ERR ',
       error.message + ' | ',
-      error.response && error.response.data ? error.response.data.message : null,
+      error.response && error.response.data ? error.response.data.message : null
     )
   }
   if (error.response.status == 401) {

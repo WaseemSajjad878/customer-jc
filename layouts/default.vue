@@ -12,7 +12,7 @@
 </template>
 <style scoped>
 .bg {
-  background-image: url("/images/map.svg");
+  background-image: url('/images/map.svg');
   background-size: cover;
 }
 </style>
