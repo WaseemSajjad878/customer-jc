@@ -1,5 +1,5 @@
 <template>
-  <q-card class="q-mt-sm rounded-borders bg-white cursor-pointer" style="max-width: 370px; min-width: 300px" flat>
+  <q-card class="q-mt-sm rounded-borders cursor-pointer offer-card" style="max-width: 370px; min-width: 300px" flat>
     <div class="row" style="height: 110px">
       <div class="q-col-6">
         <img src="/images/ext.png" />
@@ -44,10 +44,18 @@
   </q-card>
 </template>
 
-<style scoped lang="scss">
+<style lang="scss">
 .dash-line {
   border-bottom: 1px dashed $secondary-2;
   height: 1px;
+}
+.offer-card {
+  background-color: $secondary-5;
+}
+.swiper-slide-active {
+  .offer-card {
+    background-color: white;
+  }
 }
 </style>
 
