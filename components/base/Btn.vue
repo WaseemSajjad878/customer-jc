@@ -4,13 +4,7 @@
     unelevated
     padding="12px 30px"
     v-bind="$attrs"
-    :class="
-      $attrs.disabled
-        ? 'bg-secondary-1'
-        : $attrs.outlined
-        ? 'btn-outlined'
-        : 'bg-primary'
-    "
+    :class="$attrs.disabled ? 'bg-secondary-1' : $attrs.outlined ? 'btn-outlined' : 'bg-primary'"
   >
     <div
       :class="

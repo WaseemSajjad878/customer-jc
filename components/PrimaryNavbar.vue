@@ -10,11 +10,7 @@
         </div>
       </div>
       <q-space style="color: black"></q-space>
-      <q-list
-        padding
-        class="row itmes-center remove-bg-on-hover"
-        style="gap: 15px"
-      >
+      <q-list padding class="row itmes-center remove-bg-on-hover" style="gap: 15px">
         <q-item
           v-for="(item, idx) in links"
           :key="idx"
@@ -27,15 +23,8 @@
           <!-- active-class="active-item" -->
           <q-item-section>{{ item.title }}</q-item-section>
         </q-item>
-        <base-btn
-          text-color="black"
-          class="text-weight-bold"
-          padding="10px 30px"
-          >SIGN-UP</base-btn
-        >
-        <q-btn outline class="text-weight-bold" padding="10px 30px"
-          >LOGIN</q-btn
-        >
+        <base-btn text-color="black" class="text-weight-bold" padding="10px 30px">SIGN-UP</base-btn>
+        <q-btn outline class="text-weight-bold" padding="10px 30px">LOGIN</q-btn>
       </q-list>
 
       <!-- <div class="ring cursor-pointer">
@@ -65,7 +54,7 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
+import { ref } from 'vue'
 // import { useRoute } from "vue-router";
 // import { useAuthStore } from "@/stores/auth";
 
@@ -73,23 +62,23 @@ import { ref } from "vue";
 // const authStore = useAuthStore();
 const links = ref([
   {
-    title: "How it works?",
-    to: "",
+    title: 'How it works?',
+    to: '',
   },
   {
-    title: "Why JetClass?",
-    to: "",
+    title: 'Why JetClass?',
+    to: '',
   },
   {
-    title: "Fleet",
-    to: "",
+    title: 'Fleet',
+    to: '',
   },
-]);
+])
 </script>
 
 <style lang="scss">
 .header-overlay::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -114,7 +103,7 @@ const links = ref([
 }
 
 .underline-text::after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 0;
   color: black;
@@ -134,7 +123,7 @@ const links = ref([
   position: relative;
 }
 .item::after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 25%;
   width: 0%;
@@ -155,7 +144,7 @@ const links = ref([
   position: relative;
 }
 .active-item::after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 25%;
   width: 70%;
