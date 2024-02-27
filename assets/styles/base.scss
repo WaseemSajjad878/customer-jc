@@ -5,12 +5,12 @@
 
 body {
   min-height: 100vh;
+  overflow-x: hidden;
 }
 /* For Firefox */
 html {
   scrollbar-width: thin;
   scrollbar-color: $secondary-2;
-  
 }
 
 /* For WebKit browsers (Chrome, Safari) */
