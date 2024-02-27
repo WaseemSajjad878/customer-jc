@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lHr LpR fFf" style="min-height: 100vh" class="bg">
     <base-leaflet />
-    <q-page-container style="max-height: calc(100vh-124px)">
+    <q-page-container style="max-height: calc(100vh-124px); position: relative; z-index: 200">
       <div class="app-wrapper q-px-lg q-py-sm">
         <q-header class="text-dark q-mx-lg">
           <primary-navbar />

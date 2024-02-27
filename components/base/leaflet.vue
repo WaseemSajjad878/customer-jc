@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 100vh; width: 100vw; position: absolute">
+  <div style="height: 100vh; width: 100vw; position: absolute; z-index: 1">
     <div style="height: 100vh; width: 60vw; position: absolute; right: 0">
       <LMap ref="map" :zoom="zoom" :center="[47.21322, -1.559482]">
         <LTileLayer url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png" />
