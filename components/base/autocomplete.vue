@@ -70,6 +70,9 @@ const filterFn = (val, update, abort) => {
       border-bottom-right-radius: 0;
     }
   }
+  :deep(.q-field__control) {
+    background-color: white;
+  }
 }
 
 :deep(.jc-x-close:before) {

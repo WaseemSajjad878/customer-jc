@@ -1,7 +1,7 @@
 <template>
-  <q-layout view="lHr LpR fFf" style="min-height: 100vh" class="bg">
+  <q-layout view="lHr LpR fFf" style="min-height: 100vh" class="bg-black">
     <base-leaflet />
-    <q-page-container style="max-height: calc(100vh-124px); position: relative; z-index: 200">
+    <q-page-container class="bg relative-position" style="max-height: calc(100vh-124px); z-index: 200">
       <div class="app-wrapper q-px-lg q-py-sm">
         <q-header class="text-dark q-mx-lg">
           <primary-navbar />
@@ -13,7 +13,6 @@
 </template>
 <style scoped>
 .bg {
-  /* background: linear-gradient(92.57deg, #000000 1.73%, rgba(15, 15, 15, 0) 64.09%); */
-  background: black;
+  background: linear-gradient(to right, #000 44%, 55%, transparent 76%);
 }
 </style>
