@@ -1,5 +1,6 @@
 <template>
   <q-layout view="lHr LpR fFf" style="min-height: 100vh" class="bg">
+    <base-leaflet />
     <q-page-container style="max-height: calc(100vh-124px)">
       <div class="app-wrapper q-px-lg q-py-sm">
         <q-header class="text-dark q-mx-lg">
@@ -12,7 +13,7 @@
 </template>
 <style scoped>
 .bg {
-  background-image: url('/images/map.svg');
-  background-size: cover;
+  /* background: linear-gradient(92.57deg, #000000 1.73%, rgba(15, 15, 15, 0) 64.09%); */
+  background: black;
 }
 </style>

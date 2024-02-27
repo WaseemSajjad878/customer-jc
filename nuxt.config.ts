@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['nuxt-quasar-ui', '@pinia/nuxt', '@nuxtjs/eslint-module'],
+  modules: ['nuxt-quasar-ui', '@pinia/nuxt', '@nuxtjs/eslint-module','nuxt3-leaflet'],
   css: ['@/assets/styles/base.scss'],
   eslint: {
     // eslintPath: './'
