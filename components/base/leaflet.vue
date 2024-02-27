@@ -1,7 +1,7 @@
 <template>
   <div style="height: 100vh; width: 100vw; position: absolute; z-index: 1">
     <div style="height: 100vh; width: 60vw; position: absolute; right: 0">
-      <LMap ref="map" :zoom="zoom" :center="[47.21322, -1.559482]">
+      <LMap ref="map" :options="mapOptions" :zoom="zoom" :center="current.from">
         <LTileLayer url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png" />
         <LMarker :lat-lng="current.from" />
         <LMarker :lat-lng="current.to" />
@@ -13,7 +13,7 @@
 
 <script setup>
 import { ref } from 'vue'
-const zoom = ref(8)
+const zoom = ref(6)
 
 const map = ref(null)
 
@@ -32,12 +32,14 @@ const arr = [
   },
 ]
 
+const mapOptions = {
+  zoomControl: false,
+}
+
 const current = ref(arr[0])
 
 onMounted(() => {
-  setTimeout(() => {
-    current.value = arr[1]
-  }, 5000)
+  setTimeout(() => (current.value = arr[1]), 5000)
 })
 </script>
 

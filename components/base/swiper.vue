@@ -1,21 +1,14 @@
 <script setup>
 import 'swiper/css/bundle'
 import { Swiper, SwiperSlide } from 'swiper/vue'
-import {
-  Navigation,
-  Pagination,
-  Scrollbar,
-  A11y,
-  Autoplay,
-  FreeMode,
-} from 'swiper/modules'
+import { Navigation, Pagination, Scrollbar, A11y, Autoplay, FreeMode } from 'swiper/modules'
 const modules = [Navigation, Pagination, Scrollbar, A11y, Autoplay, FreeMode]
 
 const onSwiper = (swiper) => {
   console.log(swiper)
 }
 const onSlideChange = () => {
-  console.log('slide change')
+  // console.log('slide change')
 }
 </script>
 
