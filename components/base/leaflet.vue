@@ -1,19 +1,16 @@
 <template>
-  <div style="height: 100vh; width: 100vw; position: absolute; z-index: 1">
-    <div style="height: 100vh; width: 60vw; position: absolute; right: 0">
-      <LMap ref="map" :options="mapOptions" :zoom="zoom" :center="current.from">
-        <LTileLayer url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png" />
-        <LMarker :lat-lng="current.from" />
-        <LMarker :lat-lng="current.to" />
-        <l-polyline :lat-lngs="[current.from, current.to]" color="#13B89B" />
-      </LMap>
-    </div>
-  </div>
+  <LMap ref="map" :options="mapOptions" :zoom="zoom" :center="current.from">
+    <LTileLayer url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png" />
+    <LMarker :lat-lng="current.from" />
+    <LMarker :lat-lng="current.to" />
+    <l-polyline :lat-lngs="[current.from, current.to]" color="#13B89B" />
+  </LMap>
 </template>
 
 <script setup>
 import { ref } from 'vue'
-const zoom = ref(6)
+
+const zoom = ref(4)
 
 const map = ref(null)
 
@@ -38,7 +35,10 @@ const mapOptions = {
 
 const current = ref(arr[0])
 
+const bounds = computed(() => [current.value.to, current.value.from])
+
 onMounted(() => {
+  setTimeout(() => console.log(map.value.leafletObject), 2000)
   setTimeout(() => (current.value = arr[1]), 5000)
 })
 </script>

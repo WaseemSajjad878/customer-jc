@@ -1,8 +1,6 @@
 import { defineStore } from 'pinia'
-import { Offer } from '@/stores/models'
 
 const initialState = () => ({
-  offer: new Offer(),
   offers: [],
 })
 export const useOfferStore = defineStore({
@@ -12,7 +10,9 @@ export const useOfferStore = defineStore({
     async fetchOffers() {
       if (this.offers.length) return
       let res = await fetch('/data/offers.json')
-      this.offers = await res.json()
+      let data = await res.json()
+      this.offers = data.data
+      console.log('offers', this.offers)
     },
   },
   getters: {

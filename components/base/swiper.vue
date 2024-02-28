@@ -18,7 +18,7 @@ const onSlideChange = () => {
       :loop="true"
       :modules="modules"
       :space-between="8"
-      :slides-per-view="3"
+      :slides-per-view="'auto'"
       @swiper="onSwiper"
       @slideChange="onSlideChange"
       :autoplay="{ delay: 2500, disableOnInteraction: false }"

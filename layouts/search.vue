@@ -1,11 +1,9 @@
 <template>
-  <q-layout view="lHr LpR fFf" class="min-h-100vh bg-black">
-    <div style="height: 100vh; width: 100vw; position: absolute; z-index: 1">
-      <div style="height: 100vh; width: 60vw; position: absolute; right: 0">
-        <base-leaflet />
-      </div>
+  <q-layout view="lHr LpR fFf" class="min-h-100vh">
+    <div style="height: 30vh; width: 100vw; position: absolute; right: 0; z-index: 1">
+      <base-leaflet />
     </div>
-    <q-page-container class="bg-gradient relative-position min-h-100vh" style="z-index: 200">
+    <q-page-container class="relative-position min-h-100vh" style="z-index: 200">
       <div class="app-wrapper q-px-lg q-py-sm">
         <q-header class="text-dark q-mx-lg">
           <primary-navbar />
