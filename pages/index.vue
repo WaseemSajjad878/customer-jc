@@ -60,7 +60,9 @@ onMounted(async () => {
               <img src="/images/arrival.png" />
             </template> -->
           </base-autocomplete>
-          <base-btn class="text-weight-bold" padding="16px 60px" text-color="black">SEARCH</base-btn>
+          <base-btn @click="$router.push('/search')" class="text-weight-bold" padding="16px 60px" text-color="black"
+            >SEARCH</base-btn
+          >
         </div>
 
         <div>

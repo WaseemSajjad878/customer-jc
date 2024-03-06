@@ -3,10 +3,10 @@
     <q-toolbar class="text-white padding q-my-md" style="height: 28px">
       <div class="flex items-center">
         <div class="text-right">
-          <div class="flex items-center">
+          <NuxtLink style="text-decoration: none" to="/" class="flex items-center">
             <q-img width="21px" src="/images/jet.svg" />
-            <div class="logo-text">JETCLASS</div>
-          </div>
+            <div class="logo-text text-white">JETCLASS</div>
+          </NuxtLink>
         </div>
       </div>
       <q-space style="color: black"></q-space>
@@ -23,8 +23,8 @@
           <!-- active-class="active-item" -->
           <q-item-section>{{ item.title }}</q-item-section>
         </q-item>
-        <base-btn text-color="black" class="text-weight-bold" padding="10px 30px">SIGN-UP</base-btn>
         <q-btn outline class="text-weight-bold" padding="10px 30px">LOGIN</q-btn>
+        <base-btn text-color="black" class="text-weight-bold" padding="10px 30px">SIGN-UP</base-btn>
       </q-list>
 
       <!-- <div class="ring cursor-pointer">
