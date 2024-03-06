@@ -64,19 +64,4 @@ const date = ref(moment('05 April 1995', 'DD MMMM, YYYY').format('DD MMMM, YYYY'
     }
   }
 }
-
-// :deep(.jc-x-close:before) {
-//   color: $negative-1;
-// }
-// .custom-search-input {
-//   :deep(.q-field__control:before) {
-//     border: 2px solid $secondary-4;
-//   }
-//   &.q-field--dense {
-//     :deep(.q-field__control),
-//     :deep(.q-field__marginal) {
-//       height: 56px;
-//     }
-//   }
-// }
 </style>
