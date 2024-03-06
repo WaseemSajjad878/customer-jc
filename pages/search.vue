@@ -6,14 +6,9 @@ definePageMeta({
 </script>
 
 <template>
-  <div style="position: relative; top: 15vh">
-    <div>
-      <q-card class="bg-white q-pa-md" style="box-shadow: 5px 4px 20px 0px #0000000d"> Fields to render </q-card>
-    </div>
-
-    <div class="flex items-center justify-between q-my-md">
-      <div>Menu</div>
-      <div>Btn Groups</div>
+  <div class="wrapper">
+    <div class="card-wrapper relative-position">
+      <card-offer-filter />
     </div>
 
     <div>
@@ -98,4 +93,9 @@ definePageMeta({
   </div>
 </template>
 
-<style scoped lang="scss"></style>
+<style lang="scss" scoped>
+.card-wrapper {
+  top: -50px;
+  z-index: 1000;
+}
+</style>

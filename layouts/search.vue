@@ -1,16 +1,16 @@
 <template>
   <q-layout view="lHr LpR fFf" class="min-h-100vh">
-    <div style="height: 30vh; width: 100vw; position: absolute; right: 0; z-index: 1">
+    <q-header class="text-dark q-mx-lg">
+      <primary-navbar />
+    </q-header>
+    <div style="height: 30vh">
       <base-leaflet />
     </div>
-    <q-page-container class="relative-position min-h-100vh" style="z-index: 200">
-      <div class="app-wrapper q-px-lg q-py-sm">
-        <q-header class="text-dark q-mx-lg">
-          <primary-navbar />
-        </q-header>
-        <slot />
-      </div>
-    </q-page-container>
+    <div class="app-wrapper q-px-lg q-py-sm">
+      <slot />
+    </div>
+    <!-- <q-page-container class="relative-position min-h-100vh q-pt-none" style="z-index: 200">
+    </q-page-container> -->
   </q-layout>
 </template>
 <style scoped>
