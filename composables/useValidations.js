@@ -12,7 +12,6 @@ export const password = (val) => {
 }
 
 export const confirmPassword = (val, pass) => {
-  // console.log(val, pass)
   return val == pass || 'Passwords are not same'
 }
 

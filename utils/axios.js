@@ -13,7 +13,6 @@ const api = axios.create({
 })
 
 const successRequestHandler = (config) => {
-  // console.log('successRequestHandler', config)
   if (getAuthToken()) config.headers.Authorization = `Bearer ${getAuthToken()}`
   return config
 }
@@ -24,7 +23,6 @@ const errorRequestHandler = (error) => {
 }
 
 const successResponseHandler = (response) => {
-  // console.log('successResponseHandler', response)
   return response.data
 }
 const errorResponseHandler = (error) => {

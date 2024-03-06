@@ -1,6 +1,15 @@
 <script setup>
 import { computed } from 'vue'
 import { SwiperSlide } from 'swiper/vue'
+useSeoMeta({
+  title: 'Jet Class',
+  ogTitle: 'Jet Class',
+  description: 'Jet Class Customer portal',
+  ogDescription: 'Jet Class Customer portal.',
+  ogImage:
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuuRnm9oc2thMWLBkcX-_utY_w1QNeQKrzFUhusmjdb_eNh9rT8tIOZUBIhlrgvSQvFE&usqp=CAU',
+  twitterCard: 'summary_large_image',
+})
 const offerStore = useOfferStore()
 
 const opts = [
@@ -60,16 +69,13 @@ onMounted(async () => {
               <img src="/images/arrival.png" />
             </template> -->
           </base-autocomplete>
-          <base-btn @click="$router.push('/search')" class="text-weight-bold" padding="16px 60px" text-color="black"
-            >SEARCH</base-btn
-          >
+          <base-btn to="/search" class="text-weight-bold" padding="16px 60px" text-color="black">SEARCH</base-btn>
         </div>
 
         <div>
           <div class="text-h5 text-weight-bold" style="margin-top: 40px">Recently Booked</div>
           <div class="text-body1 text-secondary-2">You name it, and we will take you there, all across the globe.</div>
 
-          <!-- <client-only> -->
           <div class="q-my-md" style="gap: 10px">
             <base-swiper>
               <template #default>
@@ -79,7 +85,6 @@ onMounted(async () => {
               </template>
             </base-swiper>
           </div>
-          <!-- </client-only> -->
         </div>
       </div>
     </div>

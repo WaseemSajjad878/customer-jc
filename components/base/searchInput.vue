@@ -2,7 +2,6 @@
 defineProps({
   search: {
     type: String,
-    required: true,
   },
   icon: {
     type: String,

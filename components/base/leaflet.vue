@@ -38,7 +38,6 @@ const current = ref(arr[0])
 const bounds = computed(() => [current.value.to, current.value.from])
 
 onMounted(() => {
-  setTimeout(() => console.log(map.value.leafletObject), 2000)
   setTimeout(() => (current.value = arr[1]), 5000)
 })
 </script>

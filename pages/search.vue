@@ -1,8 +1,19 @@
 <script setup>
 import { SwiperSlide } from 'swiper/vue'
+useSeoMeta({
+  title: 'Jet Class',
+  ogTitle: 'Jet Class',
+  description: 'Jet Class Customer portal',
+  ogDescription: 'Jet Class Customer portal.',
+  ogImage:
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuuRnm9oc2thMWLBkcX-_utY_w1QNeQKrzFUhusmjdb_eNh9rT8tIOZUBIhlrgvSQvFE&usqp=CAU',
+  twitterCard: 'summary_large_image',
+})
 definePageMeta({
   layout: 'search',
 })
+
+const arrival = ref('')
 </script>
 
 <template>
@@ -10,6 +21,7 @@ definePageMeta({
     <div class="card-wrapper relative-position">
       <card-offer-filter />
     </div>
+    <!-- <div cl>Jet Comparison</div> -->
 
     <div>
       <BaseSearchInput

@@ -6,7 +6,28 @@ const arrival = ref('LOW - Austria International Airport, Aus')
 const date = ref('12 Dec, 23')
 const time = ref('08:00 AM')
 
-const passengers = ['2', '4', '6', '8', '10']
+const passengers = [
+  {
+    label: '2',
+    value: '2',
+  },
+  {
+    label: '4',
+    value: '4',
+  },
+  {
+    label: '6',
+    value: '6',
+  },
+  {
+    label: '8',
+    value: '8',
+  },
+  {
+    label: '10',
+    value: '10',
+  },
+]
 
 const value = ref('2')
 </script>

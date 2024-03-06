@@ -55,11 +55,6 @@
 
 <script setup>
 import { ref } from 'vue'
-// import { useRoute } from "vue-router";
-// import { useAuthStore } from "@/stores/auth";
-
-// const route = useRoute();
-// const authStore = useAuthStore();
 const links = ref([
   {
     title: 'How it works?',
