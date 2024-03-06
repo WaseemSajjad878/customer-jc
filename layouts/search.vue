@@ -1,6 +1,15 @@
+<script setup>
+const scrollData = ref({ position: 0 })
+
+const onScrollChange = ({ position = 0 }) => {
+  scrollData.value.position = position
+}
+const addHeaderBg = computed(() => (scrollData.value?.position > 170 ? 'bg-black transition' : ''))
+</script>
+
 <template>
-  <q-layout view="lHr LpR fFf" class="min-h-100vh">
-    <q-header class="text-dark q-mx-lg">
+  <q-layout @scroll="onScrollChange" view="lHr LpR fFf" class="min-h-100vh">
+    <q-header :class="[`text-dark transition1 ${addHeaderBg} q-px-lg`]">
       <primary-navbar />
     </q-header>
     <div style="height: 30vh">

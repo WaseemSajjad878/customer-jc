@@ -82,6 +82,9 @@ html {
   min-height: 100vh;
 }
 // others
+.transition1 {
+  transition: all 0.25 ease-in-out;
+}
 .absolute-right-center {
   right: 0;
   top: 50%;
