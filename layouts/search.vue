@@ -1,15 +1,14 @@
 <script setup>
-const scrollPosition = ref(null)
+const headerClass = ref('')
 
 const onScrollChange = ({ position }) => {
-  scrollPosition.value = position
+  headerClass.value = position > 150 ? 'bg-black' : ''
 }
-const addHeaderBg = computed(() => (scrollPosition.value > 150 ? 'bg-black' : ''))
 </script>
 
 <template>
   <q-layout @scroll="onScrollChange" view="lHr LpR fFf" class="min-h-100vh">
-    <q-header :class="[`text-dark transition1 ${addHeaderBg} q-px-lg`]">
+    <q-header :class="[`text-dark transition1 ${headerClass} q-px-lg`]">
       <primary-navbar />
     </q-header>
     <div style="height: 30vh">
