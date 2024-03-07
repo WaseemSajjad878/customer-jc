@@ -4,6 +4,7 @@ const headerClass = ref('')
 const onScrollChange = ({ position }) => {
   headerClass.value = position > 150 ? 'bg-black' : ''
 }
+console.log('onScrollChange', headerClass.value)
 </script>
 
 <template>
