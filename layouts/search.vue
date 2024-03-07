@@ -1,10 +1,10 @@
 <script setup>
-const scrollData = ref({ position: 0 })
+const scrollPosition = ref(null)
 
-const onScrollChange = ({ position = 0 }) => {
-  scrollData.value.position = position
+const onScrollChange = ({ position }) => {
+  scrollPosition.value = position
 }
-const addHeaderBg = computed(() => (scrollData.value?.position > 170 ? 'bg-black transition' : ''))
+const addHeaderBg = computed(() => (scrollPosition.value > 150 ? 'bg-black' : ''))
 </script>
 
 <template>
