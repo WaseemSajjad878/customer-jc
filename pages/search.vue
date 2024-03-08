@@ -79,7 +79,7 @@ onMounted(async () => {
           :title="jetType"
           v-model:isExpanded="isExpanded[jetType]"
         >
-          <card-jet v-for="(item, idx) in category" :key="idx" :jets="item" />
+          <card-jet class="q-my-sm" v-for="(item, idx) in category" :key="idx" :jets="item" />
         </base-expansion>
       </div>
       <div class="col-lg-8"></div>

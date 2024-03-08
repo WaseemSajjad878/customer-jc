@@ -11,8 +11,13 @@ const props = defineProps({
 </script>
 
 <template>
-  <q-expansion-item :model-value="isExpanded" @update:model-value="$emit('update:isExpanded', $event)">
-    <template #header="{}">
+  <q-expansion-item
+    class="custom-q-expansion remove-bg-on-hover q-mb-md"
+    header-class="q-pa-none"
+    :model-value="isExpanded"
+    @update:model-value="$emit('update:isExpanded', $event)"
+  >
+    <template #header>
       <div class="row no-wrap text-weight-bold items-center full-width q-pa-none">
         <h2 class="col-auto q-my-none q-mr-sm">
           {{ title }}
@@ -24,4 +29,13 @@ const props = defineProps({
   </q-expansion-item>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.custom-q-expansion {
+  &.q-expansion-item--collapsed:not(:last-child) {
+    border-bottom: 1px solid $secondary-2;
+  }
+  :deep(.q-item__section--side) {
+    padding: 0;
+  }
+}
+</style>
