@@ -17,10 +17,13 @@ export const useOfferStore = defineStore({
   },
   getters: {
     getOffers: (state) => state.offers,
-    getAircraftTypes: (state) => {
-      const types = state.offers?.map((item) => item?.aircraftType)
-      const uniqueTypes = [...new Set(types)]
-      return uniqueTypes
+    getGroupJetTypes: (state) => {
+      const groupData = state.offers?.reduce((group, item) => {
+        ;(group[item.aircraftType] ??= []).push(item)
+        return group
+      }, {})
+
+      return groupData
     },
   },
 })

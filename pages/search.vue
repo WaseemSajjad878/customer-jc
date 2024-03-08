@@ -32,7 +32,7 @@ const isExpanded = ref([])
 
 onMounted(async () => {
   await offerStore.fetchOffers()
-  console.log('jetsCategory', offerStore?.getAircraftTypes)
+  console.log('jetsCategory', offerStore?.getGroupJetTypes)
 })
 </script>
 
@@ -41,8 +41,6 @@ onMounted(async () => {
     <div class="card-wrapper relative-position">
       <card-offer-filter />
     </div>
-    <!-- <div cl>Jet Comparison</div> -->
-
     <div>
       <BaseSearchInput
         v-model:search="arrival"
@@ -76,76 +74,36 @@ onMounted(async () => {
           </q-btn>
         </div>
         <base-expansion
-          v-for="(category, idx) in offerStore?.getAircraftTypes"
-          :key="idx"
-          :title="category"
-          v-model:isExpanded="isExpanded[idx]"
+          v-for="(category, jetType) in offerStore?.getGroupJetTypes"
+          :key="jetType"
+          :title="jetType"
+          v-model:isExpanded="isExpanded[jetType]"
         >
-          <card-jet v-for="(item, idx) in offerStore?.getOffers" :key="idx" :jets="item" />
+          <card-jet v-for="(item, idx) in category" :key="idx" :jets="item" />
         </base-expansion>
       </div>
       <div class="col-lg-8"></div>
     </div>
 
-    <!-- <div class="q-mt-md">
+    <div v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" class="wrapper q-mt-md">
       <div class="flex items-center justify-between text-weight-bold q-mb-md">
         <div class="flex items-center">
-          <div class="text-h3 text-weight-bold">Light Jets</div>
+          <div class="text-h3 text-weight-bold">{{ jetType }}</div>
           <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
           <q-icon name="fa-solid fa-sort" color="secondary-1" />
         </div>
         <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
       </div>
-      <div style="width: 100vw">
+      <div class="window-width">
         <base-swiper>
           <template #default>
-            <swiper-slide v-for="item in [1, 2, 3, 4, 5]" :key="item">
-              <card-jet />
+            <swiper-slide v-for="(item, idx) in category" :key="idx">
+              <card-jet :jets="item" />
             </swiper-slide>
           </template>
         </base-swiper>
       </div>
     </div>
-
-    <div class="q-mt-xl">
-      <div class="flex items-center justify-between text-weight-bold q-mb-md">
-        <div class="flex items-center">
-          <div class="text-h3 text-weight-bold">Medium Size Jets</div>
-          <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
-          <q-icon name="fa-solid fa-sort" color="secondary-1" />
-        </div>
-        <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
-      </div>
-      <div style="width: 100vw">
-        <base-swiper>
-          <template #default>
-            <swiper-slide v-for="item in [1, 2, 3, 4, 5]" :key="item">
-              <card-jet />
-            </swiper-slide>
-          </template>
-        </base-swiper>
-      </div>
-    </div>
-
-    <div class="q-mt-xl">
-      <div class="flex items-center justify-between text-weight-bold q-mb-md">
-        <div class="flex items-center">
-          <div class="text-h3 text-weight-bold">Heavy Size Jets</div>
-          <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
-          <q-icon name="fa-solid fa-sort" color="secondary-1" />
-        </div>
-        <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
-      </div>
-      <div style="width: 100vw">
-        <base-swiper>
-          <template #default>
-            <swiper-slide v-for="item in [1, 2, 3, 4, 5]" :key="item">
-              <card-jet />
-            </swiper-slide>
-          </template>
-        </base-swiper>
-      </div>
-    </div> -->
     <div class="q-py-xl">
       <Footer />
     </div>
