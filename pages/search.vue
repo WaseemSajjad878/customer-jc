@@ -12,8 +12,28 @@ useSeoMeta({
 definePageMeta({
   layout: 'search',
 })
+const offerStore = useOfferStore()
 
 const arrival = ref('')
+
+const jetTypes = ref([
+  { id: 1, name: 'Light Jet', isActive: true },
+  { id: 2, name: 'Medium Size', isActive: false },
+  { id: 3, name: 'Heavy Size', isActive: false },
+  { id: 4, name: 'VIP Size', isActive: false },
+])
+
+const setJetTypeActive = (index) => {
+  jetTypes.value?.forEach((el) => (el.isActive = false))
+  jetTypes.value[index].isActive = true
+}
+
+const isExpanded = ref([])
+
+onMounted(async () => {
+  await offerStore.fetchOffers()
+  console.log('jetsCategory', offerStore?.getAircraftTypes)
+})
 </script>
 
 <template>
@@ -40,7 +60,34 @@ const arrival = ref('')
       </BaseSearchInput>
     </div>
 
-    <div class="q-mt-md">
+    <div class="row q-mt-lg">
+      <div class="col-lg-4">
+        <div class="flex items-center gap-15 q-mb-lg">
+          <q-btn
+            v-for="(type, idx) in jetTypes"
+            :key="idx"
+            unelevated
+            :color="type.isActive ? 'primary' : 'secondary-3'"
+            :class="[type.isActive ? '' : 'text-black', ' text-weight-bold']"
+            padding="7px 20px"
+            @click="setJetTypeActive(idx)"
+          >
+            {{ type.name }}
+          </q-btn>
+        </div>
+        <base-expansion
+          v-for="(category, idx) in offerStore?.getAircraftTypes"
+          :key="idx"
+          :title="category"
+          v-model:isExpanded="isExpanded[idx]"
+        >
+          <card-jet v-for="(item, idx) in offerStore?.getOffers" :key="idx" :jets="item" />
+        </base-expansion>
+      </div>
+      <div class="col-lg-8"></div>
+    </div>
+
+    <!-- <div class="q-mt-md">
       <div class="flex items-center justify-between text-weight-bold q-mb-md">
         <div class="flex items-center">
           <div class="text-h3 text-weight-bold">Light Jets</div>
@@ -98,7 +145,7 @@ const arrival = ref('')
           </template>
         </base-swiper>
       </div>
-    </div>
+    </div> -->
     <div class="q-py-xl">
       <Footer />
     </div>

@@ -17,5 +17,10 @@ export const useOfferStore = defineStore({
   },
   getters: {
     getOffers: (state) => state.offers,
+    getAircraftTypes: (state) => {
+      const types = state.offers?.map((item) => item?.aircraftType)
+      const uniqueTypes = [...new Set(types)]
+      return uniqueTypes
+    },
   },
 })
