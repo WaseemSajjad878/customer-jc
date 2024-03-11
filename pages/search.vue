@@ -16,6 +16,8 @@ const offerStore = useOfferStore()
 
 const arrival = ref('')
 
+const showDetails = ref(false)
+
 const jetTypes = ref([
   { id: 1, name: 'Light Jet', isActive: true },
   { id: 2, name: 'Medium Size', isActive: false },
@@ -59,46 +61,39 @@ onMounted(async () => {
       </BaseSearchInput>
     </div>
 
-    <div class="row q-mt-lg">
-      <div class="col-lg-4">
-        <div class="flex items-center gap-15 q-mb-lg">
-          <q-btn v-for="(type, idx) in jetTypes" :key="idx" unelevated
-            :color="type.isActive ? 'primary' : 'secondary-3'"
-            :class="[type.isActive ? '' : 'text-black', ' text-weight-bold']" padding="7px 20px"
-            @click="setJetTypeActive(idx)">
-            {{ type.name }}
-          </q-btn>
+    <!-- card component here -->
+
+
+    <div>
+      <div v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" class="wrapper q-mt-md">
+        <div class="flex items-center justify-between text-weight-bold q-mb-md">
+          <div class="flex items-center">
+            <div class="text-h3 text-weight-bold">{{ jetType }}</div>
+            <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
+            <q-icon name="fa-solid fa-sort" color="secondary-1" />
+          </div>
+          <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
         </div>
-        <base-expansion v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" :title="jetType"
-          v-model:isExpanded="isExpanded[jetType]">
-          <card-jet class="q-my-sm" v-for="(item, idx) in category" :key="idx" :jets="item" />
-        </base-expansion>
+        <div class="window-width">
+          <base-swiper>
+            <template #default>
+              <swiper-slide v-for="(item, idx) in category" :key="idx">
+                <card-jet :jets="item" @click="showDetails = true" />
+              </swiper-slide>
+            </template>
+          </base-swiper>
+        </div>
       </div>
-      <div class="col-lg-8"></div>
     </div>
 
-    <div v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" class="wrapper q-mt-md">
-      <div class="flex items-center justify-between text-weight-bold q-mb-md">
-        <div class="flex items-center">
-          <div class="text-h3 text-weight-bold">{{ jetType }}</div>
-          <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
-          <q-icon name="fa-solid fa-sort" color="secondary-1" />
-        </div>
-        <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
-      </div>
-      <div class="window-width">
-        <base-swiper>
-          <template #default>
-            <swiper-slide v-for="(item, idx) in category" :key="idx">
-              <card-jet :jets="item" />
-            </swiper-slide>
-          </template>
-        </base-swiper>
-      </div>
-    </div>
-    <div class="q-py-xl">
+
+
+
+
+
+    <!-- <div class="q-py-xl">
       <Footer />
-    </div>
+    </div> -->
   </div>
 </template>
 
@@ -106,5 +101,41 @@ onMounted(async () => {
 .card-wrapper {
   top: -70px;
   z-index: 1000;
+}
+
+.b-right {
+  border-right: 1px solid $secondary-2;
+}
+
+.card-enter-active,
+.card-leave-active {
+  transition: all 0.5s ease-in-out;
+}
+
+.card-enter-from {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+
+
+.card-leave-to {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+
+
+.details-enter-active,
+.deatils-leave-active {
+  transition: all 0.5s ease-in-out;
+}
+
+.details-enter-from {
+  opacity: 0;
+  transform: translateX(100%);
+}
+
+.details-leave-to {
+  opacity: 0;
+  transform: translateX(100%);
 }
 </style>

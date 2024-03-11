@@ -8,12 +8,10 @@ const props = defineProps({
 </script>
 
 <template>
-  <q-card style="width: 485px; height: 264px" class="bg-white border" flat>
+  <q-card style="width: 485px; height: 264px" class="bg-white border cursor-pointer" flat v-bind="$attrs">
     <div style="position: relative">
-      <div
-        style="position: absolute; right: 10px; top: 10px"
-        class="rounded-borders bg-white q-pa-sm text-weight-bold text-body1 flex items-center"
-      >
+      <div style="position: absolute; right: 10px; top: 10px"
+        class="rounded-borders bg-white q-pa-sm text-weight-bold text-body1 flex items-center">
         <q-icon name="fa-solid fa-star" color="warning" class="q-mr-xs" />
         5.0
       </div>
