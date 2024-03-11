@@ -38,8 +38,6 @@ const errorResponseHandler = (error) => {
     window.location.href('/login')
   }
   return Promise.reject(error.response ?? { data: { errors: [], message: 'Bad Request', status: 400, success: false } })
-  // if (error.config.url !== '/me' && error.response.status === 401) await store.dispatch('ResetAll')
-  // return Promise.reject({ ...error })
 }
 api.interceptors.request.use(successRequestHandler, errorRequestHandler)
 api.interceptors.response.use(successResponseHandler, errorResponseHandler)

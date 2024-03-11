@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="lHr LpR fFf" class="min-h-100vh bg-black">
+  <q-layout view="lHr LpR fFf" class="min-h-100vh">
     <q-header class="text-dark q-mx-lg">
       <primary-navbar />
     </q-header>

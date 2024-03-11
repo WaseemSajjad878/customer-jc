@@ -41,15 +41,16 @@ onMounted(async () => {
     <div class="card-wrapper relative-position">
       <card-offer-filter />
     </div>
+    <div style="margin-top: -50px" class="q-mb-md flex items-center justify-between">
+      <div class="flex items-center">
+        <div class="text-weight-bold text-h5 q-mr-sm">Jet Comparison</div>
+        <q-icon name="jc:chevron-down" color="black" size="18px" />
+      </div>
+    </div>
+
     <div>
-      <BaseSearchInput
-        v-model:search="arrival"
-        icon="jc:search-refraction"
-        iconColor="secondary-1"
-        class="custom-search-input"
-        placeholder="Search by Aircraft name, code, etc."
-        debounce="400"
-      >
+      <BaseSearchInput v-model:search="arrival" icon="jc:search-refraction" iconColor="secondary-1"
+        class="custom-search-input" placeholder="Search by Aircraft name, code, etc." debounce="400">
         <template #append>
           <div class="text-weight-bold text-subtitle2 text-black">
             <span class="text-primary">128</span> Aircraft from <span class="text-primary">32</span> Operators
@@ -61,24 +62,15 @@ onMounted(async () => {
     <div class="row q-mt-lg">
       <div class="col-lg-4">
         <div class="flex items-center gap-15 q-mb-lg">
-          <q-btn
-            v-for="(type, idx) in jetTypes"
-            :key="idx"
-            unelevated
+          <q-btn v-for="(type, idx) in jetTypes" :key="idx" unelevated
             :color="type.isActive ? 'primary' : 'secondary-3'"
-            :class="[type.isActive ? '' : 'text-black', ' text-weight-bold']"
-            padding="7px 20px"
-            @click="setJetTypeActive(idx)"
-          >
+            :class="[type.isActive ? '' : 'text-black', ' text-weight-bold']" padding="7px 20px"
+            @click="setJetTypeActive(idx)">
             {{ type.name }}
           </q-btn>
         </div>
-        <base-expansion
-          v-for="(category, jetType) in offerStore?.getGroupJetTypes"
-          :key="jetType"
-          :title="jetType"
-          v-model:isExpanded="isExpanded[jetType]"
-        >
+        <base-expansion v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" :title="jetType"
+          v-model:isExpanded="isExpanded[jetType]">
           <card-jet class="q-my-sm" v-for="(item, idx) in category" :key="idx" :jets="item" />
         </base-expansion>
       </div>
@@ -112,7 +104,7 @@ onMounted(async () => {
 
 <style lang="scss" scoped>
 .card-wrapper {
-  top: -50px;
+  top: -70px;
   z-index: 1000;
 }
 </style>
