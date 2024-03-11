@@ -85,6 +85,9 @@ html {
 .transition1 {
   transition: all 0.25s ease-in-out;
 }
+.cover {
+  object-fit: cover;
+}
 .absolute-right-center {
   right: 0;
   top: 50%;
@@ -98,6 +101,9 @@ html {
 }
 .bg-no-repeat {
   background-repeat: no-repeat;
+}
+.rouneded-opposite-corners {
+  border-radius: 8px 0 8px 0;
 }
 .rounded-full {
   border-radius: 100%;

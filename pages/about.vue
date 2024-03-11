@@ -15,6 +15,6 @@ useSeoMeta({
 
 <template>
   <div style="margin-top: 100px; width: 1100px">
-    <!--  -->
+    <card-instant />
   </div>
 </template>
