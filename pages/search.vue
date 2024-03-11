@@ -43,38 +43,92 @@ onMounted(async () => {
     <div class="card-wrapper relative-position">
       <card-offer-filter />
     </div>
-    <div style="margin-top: -50px" class="q-mb-md flex items-center justify-between">
-      <div class="flex items-center">
-        <div class="text-weight-bold text-h5 q-mr-sm">Jet Comparison</div>
-        <q-icon name="jc:chevron-down" color="black" size="18px" />
+
+
+
+
+    <!-- card component here -->
+    <div class="q-mt-md">
+      <div class="flex items-center justify-between">
+
+        <base-chip text-color="white" class="text-weight-bold text-h6" square>
+          Instant Booking <span><q-icon name="jc:help-octagon" /></span></base-chip>
+
+        <div class="flex items-center text-primary text-weight-bold">
+          <q-icon name="jc:tag-03" color="primary" />
+          3 Confirmed Instant Offers
+        </div>
+      </div>
+      <div class="row q-col-gutter-md q-mt-xs">
+        <div v-for="item in [1, 2, 3]" :key="item" class="col-4">
+          <card-instant />
+        </div>
       </div>
     </div>
 
-    <div>
-      <BaseSearchInput v-model:search="arrival" icon="jc:search-refraction" iconColor="secondary-1"
-        class="custom-search-input" placeholder="Search by Aircraft name, code, etc." debounce="400">
-        <template #append>
-          <div class="text-weight-bold text-subtitle2 text-black">
-            <span class="text-primary">128</span> Aircraft from <span class="text-primary">32</span> Operators
-          </div>
-        </template>
-      </BaseSearchInput>
+    <!-- hard qutoes start -->
+    <div class="q-mt-md">
+      <base-chip color="positive" text-color="white" class="text-weight-bold text-h6" square>
+        Hard Quotes <span><q-icon name="jc:help-octagon" /></span></base-chip>
+      <div class="q-mt-md">
+        <card-hard-quote />
+      </div>
+    </div>
+    <!-- hard qutoes end -->
+
+    <div class="q-mt-md">
+      <base-chip color="blue-10" text-color="white" class="text-weight-bold text-h6" square>
+        Confirmed Offers <span><q-icon name="jc:help-octagon" /></span></base-chip>
+      <div class="q-mt-md">
+        <card-hard-quote :confirm="true" />
+      </div>
     </div>
 
-    <!-- card component here -->
 
-
-    <div>
-      <div v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" class="wrapper q-mt-md">
-        <div class="flex items-center justify-between text-weight-bold q-mb-md">
-          <div class="flex items-center">
-            <div class="text-h3 text-weight-bold">{{ jetType }}</div>
-            <div class="text-primary q-ml-sm q-mr-xs">Price Range: $5,500 - $12,431</div>
-            <q-icon name="fa-solid fa-sort" color="secondary-1" />
-          </div>
-          <q-btn class="text-weight-bold" flat style="text-decoration: underline">View All</q-btn>
+    <div class="q-pa-md rounded-borders q-mt-lg bg-offers">
+      <div class=" flex items-center justify-between">
+        <base-chip color="grey-1" text-color="white" class="text-weight-bold text-h6" square>
+          Estimated Offers <span><q-icon name="jc:help-octagon" /></span></base-chip>
+        <div class="flex items-center">
+          <div class="text-weight-bold text-h5 q-mr-xs">Collapse Estimated Offers </div>
+          <q-icon name="jc:chevron-down" size="18px" />
         </div>
-        <div class="window-width">
+      </div>
+      <div v-for="(category, jetType) in offerStore?.getGroupJetTypes" :key="jetType" class="wrapper q-mt-xl ">
+        <div class="flex items-center justify-between text-weight-bold q-mb-md">
+          <div class="flex items-center gap-15">
+            <div class="text-h3 text-weight-bold">{{ jetType }}</div>
+            <div class="text-primary   flex items-center text-weight-bold"><q-icon name="jc:credit-card-01"
+                color="primary" class="q-mr-xs" />
+
+              <div>
+                Average Cost:
+                $10,500
+              </div>
+
+            </div>
+
+            <div class="text-secondary-1   flex items-center text-weight-bold"><q-icon name="jc:users-03"
+                color="secondary-1" class="q-mr-xs" />
+
+              <div>
+                Max Seating: 7 Seats
+              </div>
+
+            </div>
+            <div class="text-secondary-1   flex items-center text-weight-bold"><q-icon name="jc:tag-03"
+                color="secondary-1" class="q-mr-xs" />
+
+              <div>
+                21 Estimated Offers
+              </div>
+
+            </div>
+
+          </div>
+          <q-btn class="text-weight-bold" no-caps rounded text-color="grey-1" unelevated color="grey-5">View All</q-btn>
+        </div>
+        <div>
           <base-swiper>
             <template #default>
               <swiper-slide v-for="(item, idx) in category" :key="idx">
@@ -87,13 +141,6 @@ onMounted(async () => {
     </div>
 
 
-
-
-
-
-    <!-- <div class="q-py-xl">
-      <Footer />
-    </div> -->
   </div>
 </template>
 
@@ -103,8 +150,10 @@ onMounted(async () => {
   z-index: 1000;
 }
 
-.b-right {
-  border-right: 1px solid $secondary-2;
+.bg-offers {
+  border: 1px solid rgba(234, 236, 240, 1);
+  background: rgba(242, 244, 247, 1);
+
 }
 
 .card-enter-active,

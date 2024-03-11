@@ -10,45 +10,39 @@
         </div>
       </div>
       <q-space style="color: black"></q-space>
-      <q-list padding class="row itmes-center remove-bg-on-hover" style="gap: 15px">
-        <q-item
-          v-for="(item, idx) in links"
-          :key="idx"
-          :to="item.to"
-          :clickable="false"
-          :manual-focus="false"
-          class="text-subtitle1 text-weight-medium q-pa-none cursor-pointer"
-        >
+      <q-list padding class="flex itmes-center remove-bg-on-hover" style="gap: 15px">
+        <q-item v-for="(item, idx) in links" :key="idx" :to="item.to" :clickable="false" :manual-focus="false"
+          class="text-subtitle1 nav-item text-weight-medium q-pa-none cursor-pointer">
           <!-- item -->
           <!-- active-class="active-item" -->
           <q-item-section>{{ item.title }}</q-item-section>
         </q-item>
-        <q-btn outline class="text-weight-bold" padding="10px 30px">LOGIN</q-btn>
-        <base-btn text-color="black" class="text-weight-bold" padding="10px 30px">SIGN-UP</base-btn>
+        <div style="margin: auto;">
+          <q-btn outline class="text-weight-bold" no-caps color="grey-1" padding="5px 30px">
+            <div class="text-white">Login</div>
+          </q-btn>
+        </div>
+        <div style="margin: auto; cursor: pointer;">
+
+          <q-icon name="jc:menu-04" size="28px" color="primary" />
+          <q-menu class="bg-black" style="width: 550px;" :offset="[-20, 10]">
+            <div class="q-pa-lg rounded-borders">
+              <div class="row q-col-gutter-lg">
+                <div v-for="item in menuItems" :key="item" class="col-6 flex items-center no-wrap menu-item">
+                  <q-icon class="icon" :name="item.icon" />
+                  <div class="text-weight-bold q-ml-sm">
+                    {{ item.title }}
+                    <div class="text-grey-1 text-body1">
+                      {{ item.subtitle }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </q-menu>
+        </div>
+
       </q-list>
-
-      <!-- <div class="ring cursor-pointer">
-          <q-avatar>
-            <img style="width: 50px; object-fit: contain" src="/images/profile-img.png" />
-            <base-menu>
-              <template #body>
-                <q-list class="q-pa-none" dense style="min-width: 80px">
-                  <q-item @click="$router.push('/edit-profile')" class="q-px-none" clickable v-close-popup>
-                    <div class="text-black flex items-center text-body1">
-                      <q-icon name="jc:users-01" class="q-mr-xs"></q-icon> My Profile
-                    </div>
-                  </q-item>
-
-                  <q-item @click="logout" class="q-px-none" clickable v-close-popup>
-                    <div class="text-black flex items-center text-body1">
-                      <q-icon name="jc:log-out-01" class="q-mr-xs"></q-icon> Logout
-                    </div>
-                  </q-item>
-                </q-list>
-              </template>
-            </base-menu>
-          </q-avatar>
-        </div> -->
     </q-toolbar>
   </div>
 </template>
@@ -57,18 +51,46 @@
 import { ref } from 'vue'
 const links = ref([
   {
-    title: 'How it works?',
+    title: 'Jet-Tech',
     to: '',
   },
   {
-    title: 'Why JetClass?',
+    title: 'Explore Jet-Seats',
     to: '',
   },
   {
-    title: 'Fleet',
+    title: 'Explore Air-Taxi',
     to: '',
   },
 ])
+
+const menuItems = [
+  {
+    title: 'About Us',
+    subtitle: 'Learn more about Jet Class.',
+    icon: 'jc:bar-chart-10'
+  },
+  {
+    title: 'How It Works',
+    subtitle: 'Learn how booking process works.',
+    icon: 'jc:message-question-circle'
+  },
+  {
+    title: 'Our Fleet',
+    subtitle: 'We have diverse fleet of Jets.',
+    icon: 'jc:plane'
+  },
+  {
+    title: 'Listed Operators',
+    subtitle: 'All the verified listed operators on JC.',
+    icon: 'jc:check-verified-01'
+  },
+  {
+    title: 'Wiki',
+    subtitle: 'Everything you want to know about jets, we got you covered.',
+    icon: 'jc:book-open-01'
+  },
+]
 </script>
 
 <style lang="scss">
@@ -86,89 +108,39 @@ const links = ref([
 .active-drawer .header-overlay::before {
   display: none;
 }
+
 .padding {
   padding: 0px;
 }
 
-.underline-text {
-  position: relative;
-  display: flex;
-  // width: 95px;
-  color: black;
-}
-
-.underline-text::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  color: black;
-  width: 70%;
-  height: 2px; /* Adjust the line height as needed */
-  background-color: #13b89b; /* Adjust the line color as needed */
-  transition: all 0.2s ease-in-out;
-}
-
-.underline-text:hover::after {
-  width: 85%;
-}
-
-.item:hover {
-  font-weight: 600;
-  color: #000 !important;
-  position: relative;
-}
-.item::after {
-  content: '';
-  position: absolute;
-  bottom: 25%;
-  width: 0%;
-  border-radius: 8px !important;
-  height: 2px; /* Adjust the line height as needed */
-  background-color: black; /* Adjust the line color as needed */
-  transition: all 0.2s ease-in-out;
-}
-
-.item:hover::after {
-  width: 70%;
-}
-
-.active-item {
-  font-weight: 600;
-  color: #000 !important;
-  font-size: 20px;
-  position: relative;
-}
-.active-item::after {
-  content: '';
-  position: absolute;
-  bottom: 25%;
-  width: 70%;
-  border-radius: 8px !important;
-  height: 2px; /* Adjust the line height as needed */
-  background-color: black; /* Adjust the line color as needed */
-  transition: all 0.2s ease-in-out;
-}
-
-.active-item:hover::after {
-  width: 90%;
-}
-
-// .arrow-top::before {
-//   content: ' ';
-//   position: absolute;
-//   left: 21.6%;
-//   top: -10px;
-//   z-index: 10;
-//   border-top: none;
-//   border-right: 15px solid transparent;
-//   border-left: 15px solid transparent;
-//   border-bottom: 15px solid black;
-// }
 
 .logo-text {
   font-weight: 600;
   font-size: 18px;
   letter-spacing: 2px;
   margin-left: 4px;
+}
+
+.menu-item {
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    @extend .text-primary;
+
+    .icon {
+      @extend .text-primary;
+    }
+  }
+}
+
+.nav-item {
+  color: white;
+  cursor: pointer;
+
+
+  &:hover {
+    @extend .text-primary;
+  }
 }
 </style>
