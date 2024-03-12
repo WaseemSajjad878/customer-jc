@@ -1,6 +1,6 @@
 <template>
     <q-chip v-bind="$attrs" :class="$attrs.outlined ? 'btn-outlined text-primary' : 'bg-primary'">
-        <div :class="$attrs.outlined ? 'text-primary' : ''">
+        <div :class="$attrs.outlined ? 'text-primary' : ''" class="full-width">
 
             <slot />
         </div>

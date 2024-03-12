@@ -16,7 +16,7 @@ const offerStore = useOfferStore()
 
 const arrival = ref('')
 
-const showDetails = ref(false)
+const detailsModal = ref(false)
 
 const jetTypes = ref([
   { id: 1, name: 'Light Jet', isActive: true },
@@ -132,15 +132,14 @@ onMounted(async () => {
           <base-swiper>
             <template #default>
               <swiper-slide v-for="(item, idx) in category" :key="idx">
-                <card-jet :jets="item" @click="showDetails = true" />
+                <card-jet :jets="item" @click="detailsModal.showDetails" />
               </swiper-slide>
             </template>
           </base-swiper>
         </div>
       </div>
     </div>
-
-
+    <modal-offer-details ref="detailsModal" />
   </div>
 </template>
 
