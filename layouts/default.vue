@@ -2,7 +2,7 @@
   <q-layout view="lHr LpR fFf" class="min-h-100vh bg-black">
     <div style="height: 100vh; width: 100vw; position: absolute; z-index: 1">
       <div style="height: 100vh; width: 60vw; position: absolute; right: 0">
-        <base-leaflet />
+        <base-leaflet-liabrary />
       </div>
     </div>
     <q-page-container class="bg-gradient relative-position min-h-100vh" style="z-index: 200">
